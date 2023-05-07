@@ -18,11 +18,11 @@ class VmManager:
             credential, subscription_id)
 
     def create_vms(self, locations: "list[ResourceLocation]", nics: "list[NicDetails]") -> "list[VmDetails]":
+        vm_pollers = []
         for (location, nic) in zip(locations, nics):
             print(
                 f"Provisioning virtual machine {self._vm_name(location)}; this operation might take a few minutes."
             )
-            vm_pollers = []
             vm_pollers.append(self._compute_client.virtual_machines.begin_create_or_update(
                 location.rg,
                 self._vm_name(location),
