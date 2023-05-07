@@ -1,2 +1,5 @@
 mkdocs-material
-google-cloud-compute
+google-cloud-computeazure-mgmt-resource
+azure-mgmt-compute
+azure-mgmt-network
+azure-identity
