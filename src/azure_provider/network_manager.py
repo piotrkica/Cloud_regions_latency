@@ -62,6 +62,28 @@ class NetworkManager:
                             "direction": "Inbound",
                             "access": "Allow"
                         },
+                        {
+                            "priority": 110,
+                            "name": "AllowICMPInbound",
+                            "protocol": "ICMP",
+                            "source_address_prefix": "*",
+                            "source_port_range": "*",
+                            "destination_address_prefix": "*",
+                            "destination_port_range": "*",
+                            "direction": "Inbound",
+                            "access": "Allow"
+                        },
+                                                {
+                            "priority": 120,
+                            "name": "AllowICMPOutbound",
+                            "protocol": "ICMP",
+                            "source_address_prefix": "*",
+                            "source_port_range": "*",
+                            "destination_address_prefix": "*",
+                            "destination_port_range": 8080,
+                            "direction": "Outbound",
+                            "access": "Allow"
+                        },
                     ]
                 }
             ))
