@@ -1,6 +1,7 @@
 from azure_provider.resource_cleaner import cleanup_resource
 from azure.identity import AzureCliCredential
 from azure.mgmt.resource import ResourceManagementClient
+from functools import partial
 
 
 class RgManager:
@@ -26,5 +27,5 @@ class RgManager:
 
     def cleanup(self):
         cleanup_resource([rg.name for rg in self._rg_results], [
-            lambda: self._resource_client.resource_groups.begin_delete(rg.name) for rg in self._rg_results
+            partial(lambda x: self._resource_client.resource_groups.begin_delete(x.name), rg) for rg in self._rg_results
         ])
