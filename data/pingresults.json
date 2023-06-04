@@ -1,0 +1,5282 @@
+{
+    "tipy-vm-polandcentral": {
+        "tipy-vm-eastus": {
+            "min": 6.31,
+            "avg": 6.507,
+            "max": 6.684,
+            "mdev": 0.163
+        },
+        "tipy-vm-eastus2": {
+            "min": 37.555,
+            "avg": 38.139,
+            "max": 39.338,
+            "mdev": 0.728
+        },
+        "tipy-vm-westcentralus": {
+            "min": 68.149,
+            "avg": 68.485,
+            "max": 68.937,
+            "mdev": 0.276
+        },
+        "tipy-vm-westus": {
+            "min": 54.26,
+            "avg": 54.386,
+            "max": 54.622,
+            "mdev": 0.2
+        },
+        "tipy-vm-westus3": {
+            "min": 17.503,
+            "avg": 17.996,
+            "max": 18.598,
+            "mdev": 0.459
+        },
+        "tipy-vm-canadacentral": {
+            "min": 26.647,
+            "avg": 27.7,
+            "max": 29.814,
+            "mdev": 1.145
+        },
+        "tipy-vm-canadaeast": {
+            "min": 19.711,
+            "avg": 19.97,
+            "max": 20.366,
+            "mdev": 0.266
+        },
+        "tipy-vm-northcentralus": {
+            "min": 32.527,
+            "avg": 33.04,
+            "max": 33.589,
+            "mdev": 0.406
+        },
+        "tipy-vm-southcentralus": {
+            "min": 201.652,
+            "avg": 202.005,
+            "max": 202.342,
+            "mdev": 0.611
+        },
+        "tipy-vm-eastasia": {
+            "min": 226.818,
+            "avg": 227.088,
+            "max": 227.37,
+            "mdev": 0.468
+        },
+        "tipy-vm-southeastasia": {
+            "min": 205.195,
+            "avg": 205.412,
+            "max": 205.743,
+            "mdev": 0.61
+        },
+        "tipy-vm-australiaeast": {
+            "min": 217.328,
+            "avg": 217.493,
+            "max": 217.788,
+            "mdev": 0.617
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 115.299,
+            "avg": 115.585,
+            "max": 116.138,
+            "mdev": 0.479
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 93.687,
+            "avg": 93.856,
+            "max": 94.195,
+            "mdev": 0.263
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 81.464,
+            "avg": 81.606,
+            "max": 81.815,
+            "mdev": 0.388
+        },
+        "tipy-vm-francecentral": {
+            "min": 75.633,
+            "avg": 75.865,
+            "max": 76.046,
+            "mdev": 0.179
+        },
+        "tipy-vm-uksouth": {
+            "min": 78.179,
+            "avg": 78.578,
+            "max": 79.092,
+            "mdev": 0.417
+        },
+        "tipy-vm-ukwest": {
+            "min": 202.406,
+            "avg": 202.749,
+            "max": 203.919,
+            "mdev": 0.587
+        },
+        "tipy-vm-centralindia": {
+            "min": 223.885,
+            "avg": 224.157,
+            "max": 224.369,
+            "mdev": 0.348
+        },
+        "tipy-vm-southindia": {
+            "min": 159.974,
+            "avg": 161.041,
+            "max": 162.414,
+            "mdev": 0.941
+        },
+        "tipy-vm-japaneast": {
+            "min": 189.88,
+            "avg": 190.308,
+            "max": 191.574,
+            "mdev": 0.638
+        },
+        "tipy-vm-koreacentral": {
+            "min": 67.401,
+            "avg": 67.574,
+            "max": 67.707,
+            "mdev": 0.254
+        },
+        "tipy-vm-northeurope": {
+            "min": 99.966,
+            "avg": 100.458,
+            "max": 100.735,
+            "mdev": 0.438
+        },
+        "tipy-vm-norwayeast": {
+            "min": 105.712,
+            "avg": 106.511,
+            "max": 107.3,
+            "mdev": 0.514
+        },
+        "tipy-vm-swedencentral": {
+            "min": 189.617,
+            "avg": 189.97,
+            "max": 190.475,
+            "mdev": 0.424
+        },
+        "tipy-vm-uaenorth": {
+            "min": 80.316,
+            "avg": 80.471,
+            "max": 80.646,
+            "mdev": 0.327
+        },
+        "tipy-vm-westeurope": {
+            "min": 238.818,
+            "avg": 239.01,
+            "max": 239.448,
+            "mdev": 0.385
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 212.51,
+            "avg": 212.972,
+            "max": 213.386,
+            "mdev": 0.654
+        },
+        "tipy-vm-australiacentral": {
+            "min": 101.367,
+            "avg": 101.857,
+            "max": 102.192,
+            "mdev": 0.284
+        }
+    },
+    "tipy-vm-eastus": {
+        "tipy-vm-polandcentral": {
+            "min": 6.256,
+            "avg": 6.357,
+            "max": 6.534,
+            "mdev": 0.142
+        },
+        "tipy-vm-eastus2": {
+            "min": 41.185,
+            "avg": 41.823,
+            "max": 43.535,
+            "mdev": 0.903
+        },
+        "tipy-vm-westcentralus": {
+            "min": 59.003,
+            "avg": 59.477,
+            "max": 60.236,
+            "mdev": 0.507
+        },
+        "tipy-vm-westus": {
+            "min": 45.03,
+            "avg": 45.184,
+            "max": 45.419,
+            "mdev": 0.297
+        },
+        "tipy-vm-westus3": {
+            "min": 22.838,
+            "avg": 23.243,
+            "max": 23.865,
+            "mdev": 0.344
+        },
+        "tipy-vm-canadacentral": {
+            "min": 30.146,
+            "avg": 30.406,
+            "max": 30.658,
+            "mdev": 0.22
+        },
+        "tipy-vm-canadaeast": {
+            "min": 20.328,
+            "avg": 20.808,
+            "max": 21.467,
+            "mdev": 0.463
+        },
+        "tipy-vm-northcentralus": {
+            "min": 27.905,
+            "avg": 28.07,
+            "max": 28.427,
+            "mdev": 0.218
+        },
+        "tipy-vm-southcentralus": {
+            "min": 194.2,
+            "avg": 194.497,
+            "max": 195.02,
+            "mdev": 0.495
+        },
+        "tipy-vm-eastasia": {
+            "min": 216.917,
+            "avg": 217.229,
+            "max": 217.365,
+            "mdev": 0.335
+        },
+        "tipy-vm-southeastasia": {
+            "min": 195.969,
+            "avg": 196.232,
+            "max": 196.514,
+            "mdev": 0.437
+        },
+        "tipy-vm-australiaeast": {
+            "min": 207.373,
+            "avg": 207.783,
+            "max": 208.578,
+            "mdev": 0.709
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 114.567,
+            "avg": 114.676,
+            "max": 114.762,
+            "mdev": 0.437
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 98.099,
+            "avg": 98.386,
+            "max": 98.563,
+            "mdev": 0.158
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 85.737,
+            "avg": 85.975,
+            "max": 86.335,
+            "mdev": 0.436
+        },
+        "tipy-vm-francecentral": {
+            "min": 79.51,
+            "avg": 80.066,
+            "max": 81.132,
+            "mdev": 0.668
+        },
+        "tipy-vm-uksouth": {
+            "min": 83.57,
+            "avg": 84.025,
+            "max": 84.774,
+            "mdev": 0.44
+        },
+        "tipy-vm-ukwest": {
+            "min": 198.817,
+            "avg": 199.141,
+            "max": 199.682,
+            "mdev": 0.642
+        },
+        "tipy-vm-centralindia": {
+            "min": 226.765,
+            "avg": 227.445,
+            "max": 228.458,
+            "mdev": 0.796
+        },
+        "tipy-vm-southindia": {
+            "min": 150.896,
+            "avg": 152.859,
+            "max": 157.475,
+            "mdev": 2.377
+        },
+        "tipy-vm-japaneast": {
+            "min": 182.688,
+            "avg": 183.012,
+            "max": 183.519,
+            "mdev": 0.473
+        },
+        "tipy-vm-koreacentral": {
+            "min": 70.639,
+            "avg": 70.763,
+            "max": 71.033,
+            "mdev": 0.371
+        },
+        "tipy-vm-northeurope": {
+            "min": 103.319,
+            "avg": 103.403,
+            "max": 103.558,
+            "mdev": 0.416
+        },
+        "tipy-vm-norwayeast": {
+            "min": 114.027,
+            "avg": 114.503,
+            "max": 115.776,
+            "mdev": 0.715
+        },
+        "tipy-vm-swedencentral": {
+            "min": 190.84,
+            "avg": 191.231,
+            "max": 191.729,
+            "mdev": 0.505
+        },
+        "tipy-vm-uaenorth": {
+            "min": 85.67,
+            "avg": 85.951,
+            "max": 86.174,
+            "mdev": 0.411
+        },
+        "tipy-vm-westeurope": {
+            "min": 249.474,
+            "avg": 249.712,
+            "max": 249.929,
+            "mdev": 0.485
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 205.084,
+            "avg": 205.432,
+            "max": 206.265,
+            "mdev": 0.655
+        },
+        "tipy-vm-australiacentral": {
+            "min": 105.34,
+            "avg": 105.844,
+            "max": 106.339,
+            "mdev": 0.438
+        }
+    },
+    "tipy-vm-eastus2": {
+        "tipy-vm-polandcentral": {
+            "min": 37.502,
+            "avg": 37.781,
+            "max": 38.151,
+            "mdev": 0.276
+        },
+        "tipy-vm-eastus": {
+            "min": 40.931,
+            "avg": 41.781,
+            "max": 43.969,
+            "mdev": 1.111
+        },
+        "tipy-vm-westcentralus": {
+            "min": 24.427,
+            "avg": 24.936,
+            "max": 25.681,
+            "mdev": 0.473
+        },
+        "tipy-vm-westus": {
+            "min": 31.299,
+            "avg": 31.944,
+            "max": 33.177,
+            "mdev": 0.727
+        },
+        "tipy-vm-westus3": {
+            "min": 39.143,
+            "avg": 39.551,
+            "max": 40.137,
+            "mdev": 0.361
+        },
+        "tipy-vm-canadacentral": {
+            "min": 47.845,
+            "avg": 48.449,
+            "max": 49.567,
+            "mdev": 0.626
+        },
+        "tipy-vm-canadaeast": {
+            "min": 26.348,
+            "avg": 27.146,
+            "max": 29.015,
+            "mdev": 0.988
+        },
+        "tipy-vm-northcentralus": {
+            "min": 23.47,
+            "avg": 24.009,
+            "max": 24.963,
+            "mdev": 0.563
+        },
+        "tipy-vm-southcentralus": {
+            "min": 170.518,
+            "avg": 170.966,
+            "max": 171.66,
+            "mdev": 0.492
+        },
+        "tipy-vm-eastasia": {
+            "min": 188.576,
+            "avg": 188.829,
+            "max": 189.157,
+            "mdev": 0.591
+        },
+        "tipy-vm-southeastasia": {
+            "min": 161.945,
+            "avg": 162.48,
+            "max": 163.194,
+            "mdev": 0.76
+        },
+        "tipy-vm-australiaeast": {
+            "min": 173.319,
+            "avg": 173.611,
+            "max": 174.019,
+            "mdev": 0.368
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 158.025,
+            "avg": 158.183,
+            "max": 158.389,
+            "mdev": 0.156
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 131.507,
+            "avg": 132.775,
+            "max": 136.055,
+            "mdev": 1.704
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 119.373,
+            "avg": 119.729,
+            "max": 120.252,
+            "mdev": 0.59
+        },
+        "tipy-vm-francecentral": {
+            "min": 116.347,
+            "avg": 116.974,
+            "max": 117.713,
+            "mdev": 0.557
+        },
+        "tipy-vm-uksouth": {
+            "min": 119.237,
+            "avg": 120.132,
+            "max": 122.016,
+            "mdev": 1.012
+        },
+        "tipy-vm-ukwest": {
+            "min": 248.565,
+            "avg": 249.511,
+            "max": 251.683,
+            "mdev": 1.224
+        },
+        "tipy-vm-centralindia": {
+            "min": 214.293,
+            "avg": 214.881,
+            "max": 215.345,
+            "mdev": 0.563
+        },
+        "tipy-vm-southindia": {
+            "min": 120.365,
+            "avg": 121.501,
+            "max": 123.099,
+            "mdev": 1.11
+        },
+        "tipy-vm-japaneast": {
+            "min": 141.658,
+            "avg": 142.231,
+            "max": 142.806,
+            "mdev": 0.659
+        },
+        "tipy-vm-koreacentral": {
+            "min": 110.466,
+            "avg": 111.155,
+            "max": 112.295,
+            "mdev": 0.729
+        },
+        "tipy-vm-northeurope": {
+            "min": 140.922,
+            "avg": 142.306,
+            "max": 146.197,
+            "mdev": 1.992
+        },
+        "tipy-vm-norwayeast": {
+            "min": 147.268,
+            "avg": 148.159,
+            "max": 149.972,
+            "mdev": 1.004
+        },
+        "tipy-vm-swedencentral": {
+            "min": 231.214,
+            "avg": 231.819,
+            "max": 232.424,
+            "mdev": 0.394
+        },
+        "tipy-vm-uaenorth": {
+            "min": 121.682,
+            "avg": 121.929,
+            "max": 122.146,
+            "mdev": 0.363
+        },
+        "tipy-vm-westeurope": {
+            "min": 286.286,
+            "avg": 286.797,
+            "max": 287.746,
+            "mdev": 0.79
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 167.139,
+            "avg": 167.931,
+            "max": 169.119,
+            "mdev": 0.813
+        },
+        "tipy-vm-australiacentral": {
+            "min": 143.953,
+            "avg": 144.664,
+            "max": 145.809,
+            "mdev": 0.864
+        }
+    },
+    "tipy-vm-westcentralus": {
+        "tipy-vm-polandcentral": {
+            "min": 67.898,
+            "avg": 68.045,
+            "max": 68.324,
+            "mdev": 0.225
+        },
+        "tipy-vm-eastus": {
+            "min": 59.066,
+            "avg": 59.453,
+            "max": 60.332,
+            "mdev": 0.527
+        },
+        "tipy-vm-eastus2": {
+            "min": 24.594,
+            "avg": 25.474,
+            "max": 26.5,
+            "mdev": 0.754
+        },
+        "tipy-vm-westus": {
+            "min": 16.021,
+            "avg": 16.701,
+            "max": 18.229,
+            "mdev": 0.832
+        },
+        "tipy-vm-westus3": {
+            "min": 58.694,
+            "avg": 59.285,
+            "max": 59.748,
+            "mdev": 0.413
+        },
+        "tipy-vm-canadacentral": {
+            "min": 67.691,
+            "avg": 68.378,
+            "max": 69.759,
+            "mdev": 0.759
+        },
+        "tipy-vm-canadaeast": {
+            "min": 46.502,
+            "avg": 47.045,
+            "max": 48.236,
+            "mdev": 0.616
+        },
+        "tipy-vm-northcentralus": {
+            "min": 33.511,
+            "avg": 33.767,
+            "max": 34.068,
+            "mdev": 0.294
+        },
+        "tipy-vm-southcentralus": {
+            "min": 147.906,
+            "avg": 148.315,
+            "max": 148.552,
+            "mdev": 0.333
+        },
+        "tipy-vm-eastasia": {
+            "min": 169.112,
+            "avg": 169.436,
+            "max": 169.652,
+            "mdev": 0.55
+        },
+        "tipy-vm-southeastasia": {
+            "min": 138.239,
+            "avg": 138.507,
+            "max": 138.839,
+            "mdev": 0.464
+        },
+        "tipy-vm-australiaeast": {
+            "min": 150.229,
+            "avg": 151.344,
+            "max": 154.256,
+            "mdev": 1.549
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 176.151,
+            "avg": 176.523,
+            "max": 177.19,
+            "mdev": 0.354
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 151.862,
+            "avg": 152.237,
+            "max": 152.775,
+            "mdev": 0.539
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 140.308,
+            "avg": 140.838,
+            "max": 141.84,
+            "mdev": 0.677
+        },
+        "tipy-vm-francecentral": {
+            "min": 134.207,
+            "avg": 134.611,
+            "max": 135.334,
+            "mdev": 0.522
+        },
+        "tipy-vm-uksouth": {
+            "min": 137.848,
+            "avg": 138.485,
+            "max": 139.238,
+            "mdev": 0.7
+        },
+        "tipy-vm-ukwest": {
+            "min": 216.239,
+            "avg": 217.573,
+            "max": 218.2,
+            "mdev": 0.765
+        },
+        "tipy-vm-centralindia": {
+            "min": 201.749,
+            "avg": 202.131,
+            "max": 202.676,
+            "mdev": 0.645
+        },
+        "tipy-vm-southindia": {
+            "min": 105.798,
+            "avg": 105.991,
+            "max": 106.477,
+            "mdev": 0.482
+        },
+        "tipy-vm-japaneast": {
+            "min": 128.618,
+            "avg": 129.239,
+            "max": 129.967,
+            "mdev": 0.519
+        },
+        "tipy-vm-koreacentral": {
+            "min": 131.148,
+            "avg": 132.41,
+            "max": 136.005,
+            "mdev": 1.885
+        },
+        "tipy-vm-northeurope": {
+            "min": 157.988,
+            "avg": 158.507,
+            "max": 159.458,
+            "mdev": 0.73
+        },
+        "tipy-vm-norwayeast": {
+            "min": 170.278,
+            "avg": 170.802,
+            "max": 171.236,
+            "mdev": 0.636
+        },
+        "tipy-vm-swedencentral": {
+            "min": 258.201,
+            "avg": 258.789,
+            "max": 260.572,
+            "mdev": 1.064
+        },
+        "tipy-vm-uaenorth": {
+            "min": 142.668,
+            "avg": 143.022,
+            "max": 143.535,
+            "mdev": 0.448
+        },
+        "tipy-vm-westeurope": {
+            "min": 311.567,
+            "avg": 312.385,
+            "max": 314.903,
+            "mdev": 1.451
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 141.76,
+            "avg": 141.929,
+            "max": 142.362,
+            "mdev": 0.325
+        },
+        "tipy-vm-australiacentral": {
+            "min": 169.65,
+            "avg": 170.169,
+            "max": 170.878,
+            "mdev": 0.534
+        }
+    },
+    "tipy-vm-westus": {
+        "tipy-vm-polandcentral": {
+            "min": 54.487,
+            "avg": 54.79,
+            "max": 55.128,
+            "mdev": 0.209
+        },
+        "tipy-vm-eastus": {
+            "min": 44.93,
+            "avg": 45.966,
+            "max": 46.924,
+            "mdev": 0.705
+        },
+        "tipy-vm-eastus2": {
+            "min": 31.049,
+            "avg": 31.761,
+            "max": 32.966,
+            "mdev": 0.828
+        },
+        "tipy-vm-westcentralus": {
+            "min": 16.21,
+            "avg": 16.918,
+            "max": 17.351,
+            "mdev": 0.425
+        },
+        "tipy-vm-westus3": {
+            "min": 65.091,
+            "avg": 65.502,
+            "max": 66.142,
+            "mdev": 0.486
+        },
+        "tipy-vm-canadacentral": {
+            "min": 72.223,
+            "avg": 72.745,
+            "max": 73.542,
+            "mdev": 0.61
+        },
+        "tipy-vm-canadaeast": {
+            "min": 50.242,
+            "avg": 50.983,
+            "max": 52.161,
+            "mdev": 0.721
+        },
+        "tipy-vm-northcentralus": {
+            "min": 19.382,
+            "avg": 20.178,
+            "max": 21.254,
+            "mdev": 0.651
+        },
+        "tipy-vm-southcentralus": {
+            "min": 148.852,
+            "avg": 149.159,
+            "max": 150.072,
+            "mdev": 0.673
+        },
+        "tipy-vm-eastasia": {
+            "min": 173.941,
+            "avg": 174.464,
+            "max": 175.514,
+            "mdev": 0.588
+        },
+        "tipy-vm-southeastasia": {
+            "min": 154.057,
+            "avg": 155.705,
+            "max": 160.166,
+            "mdev": 2.273
+        },
+        "tipy-vm-australiaeast": {
+            "min": 165.984,
+            "avg": 166.381,
+            "max": 167.015,
+            "mdev": 0.453
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 161.567,
+            "avg": 162.135,
+            "max": 163.152,
+            "mdev": 0.609
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 140.03,
+            "avg": 140.764,
+            "max": 141.271,
+            "mdev": 0.45
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 129.765,
+            "avg": 130.516,
+            "max": 131.305,
+            "mdev": 0.694
+        },
+        "tipy-vm-francecentral": {
+            "min": 123.797,
+            "avg": 123.864,
+            "max": 123.954,
+            "mdev": 0.391
+        },
+        "tipy-vm-uksouth": {
+            "min": 127.564,
+            "avg": 127.807,
+            "max": 128.263,
+            "mdev": 0.429
+        },
+        "tipy-vm-ukwest": {
+            "min": 230.461,
+            "avg": 231.065,
+            "max": 231.654,
+            "mdev": 0.773
+        },
+        "tipy-vm-centralindia": {
+            "min": 216.318,
+            "avg": 216.471,
+            "max": 216.829,
+            "mdev": 0.617
+        },
+        "tipy-vm-southindia": {
+            "min": 108.14,
+            "avg": 108.879,
+            "max": 110.191,
+            "mdev": 0.922
+        },
+        "tipy-vm-japaneast": {
+            "min": 134.272,
+            "avg": 135.332,
+            "max": 137.671,
+            "mdev": 1.225
+        },
+        "tipy-vm-koreacentral": {
+            "min": 119.031,
+            "avg": 119.491,
+            "max": 120.136,
+            "mdev": 0.585
+        },
+        "tipy-vm-northeurope": {
+            "min": 147.074,
+            "avg": 147.283,
+            "max": 147.858,
+            "mdev": 0.45
+        },
+        "tipy-vm-norwayeast": {
+            "min": 158.061,
+            "avg": 158.645,
+            "max": 159.744,
+            "mdev": 0.734
+        },
+        "tipy-vm-swedencentral": {
+            "min": 234.752,
+            "avg": 235.266,
+            "max": 235.898,
+            "mdev": 0.607
+        },
+        "tipy-vm-uaenorth": {
+            "min": 129.654,
+            "avg": 130.353,
+            "max": 131.329,
+            "mdev": 0.577
+        },
+        "tipy-vm-westeurope": {
+            "min": 295.627,
+            "avg": 296.199,
+            "max": 297.121,
+            "mdev": 0.893
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 158.312,
+            "avg": 158.721,
+            "max": 159.098,
+            "mdev": 0.446
+        },
+        "tipy-vm-australiacentral": {
+            "min": 157.325,
+            "avg": 157.793,
+            "max": 158.357,
+            "mdev": 0.561
+        }
+    },
+    "tipy-vm-westus3": {
+        "tipy-vm-polandcentral": {
+            "min": 17.658,
+            "avg": 18.162,
+            "max": 19.503,
+            "mdev": 0.686
+        },
+        "tipy-vm-eastus": {
+            "min": 22.776,
+            "avg": 23.034,
+            "max": 23.472,
+            "mdev": 0.306
+        },
+        "tipy-vm-eastus2": {
+            "min": 39.122,
+            "avg": 39.352,
+            "max": 39.918,
+            "mdev": 0.292
+        },
+        "tipy-vm-westcentralus": {
+            "min": 58.859,
+            "avg": 59.265,
+            "max": 59.674,
+            "mdev": 0.454
+        },
+        "tipy-vm-westus": {
+            "min": 65.144,
+            "avg": 65.602,
+            "max": 66.841,
+            "mdev": 0.676
+        },
+        "tipy-vm-canadacentral": {
+            "min": 11.724,
+            "avg": 12.119,
+            "max": 13.147,
+            "mdev": 0.529
+        },
+        "tipy-vm-canadaeast": {
+            "min": 16.604,
+            "avg": 16.876,
+            "max": 17.079,
+            "mdev": 0.222
+        },
+        "tipy-vm-northcentralus": {
+            "min": 49.227,
+            "avg": 49.498,
+            "max": 49.923,
+            "mdev": 0.391
+        },
+        "tipy-vm-southcentralus": {
+            "min": 195.275,
+            "avg": 195.745,
+            "max": 196.129,
+            "mdev": 0.643
+        },
+        "tipy-vm-eastasia": {
+            "min": 216.573,
+            "avg": 217.148,
+            "max": 217.614,
+            "mdev": 0.456
+        },
+        "tipy-vm-southeastasia": {
+            "min": 197.239,
+            "avg": 197.589,
+            "max": 197.903,
+            "mdev": 0.48
+        },
+        "tipy-vm-australiaeast": {
+            "min": 206.555,
+            "avg": 206.924,
+            "max": 207.176,
+            "mdev": 0.613
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 127.707,
+            "avg": 127.918,
+            "max": 128.121,
+            "mdev": 0.353
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 110.357,
+            "avg": 110.597,
+            "max": 110.905,
+            "mdev": 0.188
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 98.165,
+            "avg": 98.54,
+            "max": 98.939,
+            "mdev": 0.384
+        },
+        "tipy-vm-francecentral": {
+            "min": 91.758,
+            "avg": 92.169,
+            "max": 92.835,
+            "mdev": 0.524
+        },
+        "tipy-vm-uksouth": {
+            "min": 94.969,
+            "avg": 95.284,
+            "max": 95.862,
+            "mdev": 0.416
+        },
+        "tipy-vm-ukwest": {
+            "min": 213.924,
+            "avg": 214.616,
+            "max": 215.656,
+            "mdev": 0.733
+        },
+        "tipy-vm-centralindia": {
+            "min": 238.44,
+            "avg": 238.706,
+            "max": 239.165,
+            "mdev": 0.517
+        },
+        "tipy-vm-southindia": {
+            "min": 154.081,
+            "avg": 154.509,
+            "max": 155.406,
+            "mdev": 0.633
+        },
+        "tipy-vm-japaneast": {
+            "min": 177.781,
+            "avg": 178.153,
+            "max": 178.46,
+            "mdev": 0.465
+        },
+        "tipy-vm-koreacentral": {
+            "min": 81.914,
+            "avg": 82.266,
+            "max": 83.447,
+            "mdev": 0.669
+        },
+        "tipy-vm-northeurope": {
+            "min": 115.02,
+            "avg": 115.381,
+            "max": 115.849,
+            "mdev": 0.529
+        },
+        "tipy-vm-norwayeast": {
+            "min": 126.719,
+            "avg": 127.628,
+            "max": 128.325,
+            "mdev": 0.643
+        },
+        "tipy-vm-swedencentral": {
+            "min": 202.381,
+            "avg": 202.669,
+            "max": 202.952,
+            "mdev": 0.467
+        },
+        "tipy-vm-uaenorth": {
+            "min": 97.525,
+            "avg": 97.787,
+            "max": 98.128,
+            "mdev": 0.382
+        },
+        "tipy-vm-westeurope": {
+            "min": 250.752,
+            "avg": 251.236,
+            "max": 252.087,
+            "mdev": 0.742
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 200.081,
+            "avg": 200.824,
+            "max": 202.091,
+            "mdev": 0.848
+        },
+        "tipy-vm-australiacentral": {
+            "min": 113.417,
+            "avg": 113.956,
+            "max": 115.202,
+            "mdev": 0.639
+        }
+    },
+    "tipy-vm-canadacentral": {
+        "tipy-vm-polandcentral": {
+            "min": 26.784,
+            "avg": 27.237,
+            "max": 27.844,
+            "mdev": 0.452
+        },
+        "tipy-vm-eastus": {
+            "min": 30.316,
+            "avg": 30.473,
+            "max": 30.712,
+            "mdev": 0.256
+        },
+        "tipy-vm-eastus2": {
+            "min": 48.21,
+            "avg": 48.818,
+            "max": 50.162,
+            "mdev": 0.743
+        },
+        "tipy-vm-westcentralus": {
+            "min": 67.693,
+            "avg": 67.863,
+            "max": 68.389,
+            "mdev": 0.39
+        },
+        "tipy-vm-westus": {
+            "min": 72.14,
+            "avg": 72.569,
+            "max": 72.989,
+            "mdev": 0.288
+        },
+        "tipy-vm-westus3": {
+            "min": 11.52,
+            "avg": 11.761,
+            "max": 12.294,
+            "mdev": 0.31
+        },
+        "tipy-vm-canadaeast": {
+            "min": 23.961,
+            "avg": 24.32,
+            "max": 24.801,
+            "mdev": 0.32
+        },
+        "tipy-vm-northcentralus": {
+            "min": 54.953,
+            "avg": 55.114,
+            "max": 55.285,
+            "mdev": 0.32
+        },
+        "tipy-vm-southcentralus": {
+            "min": 204.329,
+            "avg": 204.512,
+            "max": 204.859,
+            "mdev": 0.53
+        },
+        "tipy-vm-eastasia": {
+            "min": 226.488,
+            "avg": 226.873,
+            "max": 227.321,
+            "mdev": 0.519
+        },
+        "tipy-vm-southeastasia": {
+            "min": 204.379,
+            "avg": 204.705,
+            "max": 205.331,
+            "mdev": 0.607
+        },
+        "tipy-vm-australiaeast": {
+            "min": 215.936,
+            "avg": 216.242,
+            "max": 216.946,
+            "mdev": 0.471
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 135.986,
+            "avg": 136.135,
+            "max": 136.298,
+            "mdev": 0.484
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 119.293,
+            "avg": 119.491,
+            "max": 119.738,
+            "mdev": 0.406
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 107.841,
+            "avg": 108.228,
+            "max": 108.627,
+            "mdev": 0.386
+        },
+        "tipy-vm-francecentral": {
+            "min": 101.976,
+            "avg": 102.271,
+            "max": 103.291,
+            "mdev": 0.585
+        },
+        "tipy-vm-uksouth": {
+            "min": 104.629,
+            "avg": 104.927,
+            "max": 105.304,
+            "mdev": 0.4
+        },
+        "tipy-vm-ukwest": {
+            "min": 222.777,
+            "avg": 223.109,
+            "max": 223.489,
+            "mdev": 0.481
+        },
+        "tipy-vm-centralindia": {
+            "min": 246.854,
+            "avg": 247.201,
+            "max": 247.651,
+            "mdev": 0.514
+        },
+        "tipy-vm-southindia": {
+            "min": 164.896,
+            "avg": 165.014,
+            "max": 165.199,
+            "mdev": 0.457
+        },
+        "tipy-vm-japaneast": {
+            "min": 186.25,
+            "avg": 186.866,
+            "max": 187.182,
+            "mdev": 0.329
+        },
+        "tipy-vm-koreacentral": {
+            "min": 91.333,
+            "avg": 91.448,
+            "max": 91.534,
+            "mdev": 0.066
+        },
+        "tipy-vm-northeurope": {
+            "min": 125.308,
+            "avg": 125.612,
+            "max": 126.07,
+            "mdev": 0.341
+        },
+        "tipy-vm-norwayeast": {
+            "min": 132.809,
+            "avg": 133.106,
+            "max": 133.47,
+            "mdev": 0.217
+        },
+        "tipy-vm-swedencentral": {
+            "min": 209.666,
+            "avg": 210.035,
+            "max": 210.403,
+            "mdev": 0.265
+        },
+        "tipy-vm-uaenorth": {
+            "min": 107.371,
+            "avg": 107.714,
+            "max": 108.01,
+            "mdev": 0.474
+        },
+        "tipy-vm-westeurope": {
+            "min": 268.369,
+            "avg": 268.726,
+            "max": 269.178,
+            "mdev": 0.304
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 215.456,
+            "avg": 215.825,
+            "max": 216.076,
+            "mdev": 0.398
+        },
+        "tipy-vm-australiacentral": {
+            "min": 121.598,
+            "avg": 122.431,
+            "max": 123.654,
+            "mdev": 0.822
+        }
+    },
+    "tipy-vm-canadaeast": {
+        "tipy-vm-polandcentral": {
+            "min": 19.895,
+            "avg": 20.177,
+            "max": 21.009,
+            "mdev": 0.419
+        },
+        "tipy-vm-eastus": {
+            "min": 20.65,
+            "avg": 20.955,
+            "max": 21.352,
+            "mdev": 0.307
+        },
+        "tipy-vm-eastus2": {
+            "min": 25.884,
+            "avg": 26.531,
+            "max": 27.274,
+            "mdev": 0.478
+        },
+        "tipy-vm-westcentralus": {
+            "min": 46.322,
+            "avg": 47.327,
+            "max": 50.129,
+            "mdev": 1.41
+        },
+        "tipy-vm-westus": {
+            "min": 50.352,
+            "avg": 50.698,
+            "max": 51.265,
+            "mdev": 0.369
+        },
+        "tipy-vm-westus3": {
+            "min": 16.683,
+            "avg": 17.003,
+            "max": 17.473,
+            "mdev": 0.295
+        },
+        "tipy-vm-canadacentral": {
+            "min": 23.971,
+            "avg": 24.493,
+            "max": 25.038,
+            "mdev": 0.357
+        },
+        "tipy-vm-northcentralus": {
+            "min": 30.749,
+            "avg": 31.203,
+            "max": 31.847,
+            "mdev": 0.441
+        },
+        "tipy-vm-southcentralus": {
+            "min": 187.68,
+            "avg": 188.006,
+            "max": 188.395,
+            "mdev": 0.594
+        },
+        "tipy-vm-eastasia": {
+            "min": 204.44,
+            "avg": 205.516,
+            "max": 208.146,
+            "mdev": 1.377
+        },
+        "tipy-vm-southeastasia": {
+            "min": 205.425,
+            "avg": 206.103,
+            "max": 207.596,
+            "mdev": 0.77
+        },
+        "tipy-vm-australiaeast": {
+            "min": 197.029,
+            "avg": 197.494,
+            "max": 198.389,
+            "mdev": 0.69
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 134.745,
+            "avg": 135.125,
+            "max": 135.364,
+            "mdev": 0.467
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 108.428,
+            "avg": 109.313,
+            "max": 112.169,
+            "mdev": 1.443
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 96.418,
+            "avg": 96.752,
+            "max": 97.412,
+            "mdev": 0.525
+        },
+        "tipy-vm-francecentral": {
+            "min": 90.116,
+            "avg": 90.329,
+            "max": 90.544,
+            "mdev": 0.136
+        },
+        "tipy-vm-uksouth": {
+            "min": 94.88,
+            "avg": 95.14,
+            "max": 95.441,
+            "mdev": 0.28
+        },
+        "tipy-vm-ukwest": {
+            "min": 221.995,
+            "avg": 222.289,
+            "max": 222.818,
+            "mdev": 0.285
+        },
+        "tipy-vm-centralindia": {
+            "min": 246.534,
+            "avg": 246.771,
+            "max": 247.009,
+            "mdev": 0.158
+        },
+        "tipy-vm-southindia": {
+            "min": 141.609,
+            "avg": 141.906,
+            "max": 142.246,
+            "mdev": 0.532
+        },
+        "tipy-vm-japaneast": {
+            "min": 165.717,
+            "avg": 165.982,
+            "max": 166.247,
+            "mdev": 0.405
+        },
+        "tipy-vm-koreacentral": {
+            "min": 84.93,
+            "avg": 85.238,
+            "max": 85.893,
+            "mdev": 0.338
+        },
+        "tipy-vm-northeurope": {
+            "min": 114.593,
+            "avg": 114.704,
+            "max": 114.977,
+            "mdev": 0.396
+        },
+        "tipy-vm-norwayeast": {
+            "min": 129.369,
+            "avg": 129.748,
+            "max": 130.288,
+            "mdev": 0.412
+        },
+        "tipy-vm-swedencentral": {
+            "min": 209.009,
+            "avg": 209.407,
+            "max": 209.954,
+            "mdev": 0.595
+        },
+        "tipy-vm-uaenorth": {
+            "min": 96.993,
+            "avg": 97.155,
+            "max": 97.401,
+            "mdev": 0.15
+        },
+        "tipy-vm-westeurope": {
+            "min": 262.12,
+            "avg": 262.481,
+            "max": 263.071,
+            "mdev": 0.668
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 190.563,
+            "avg": 191.411,
+            "max": 192.584,
+            "mdev": 1.106
+        },
+        "tipy-vm-australiacentral": {
+            "min": 130.927,
+            "avg": 131.639,
+            "max": 132.891,
+            "mdev": 0.764
+        }
+    },
+    "tipy-vm-northcentralus": {
+        "tipy-vm-polandcentral": {
+            "min": 32.529,
+            "avg": 32.713,
+            "max": 32.994,
+            "mdev": 0.168
+        },
+        "tipy-vm-eastus": {
+            "min": 27.638,
+            "avg": 28.155,
+            "max": 28.874,
+            "mdev": 0.438
+        },
+        "tipy-vm-eastus2": {
+            "min": 23.664,
+            "avg": 23.934,
+            "max": 24.254,
+            "mdev": 0.254
+        },
+        "tipy-vm-westcentralus": {
+            "min": 33.33,
+            "avg": 33.794,
+            "max": 34.537,
+            "mdev": 0.459
+        },
+        "tipy-vm-westus": {
+            "min": 19.601,
+            "avg": 19.882,
+            "max": 20.172,
+            "mdev": 0.229
+        },
+        "tipy-vm-westus3": {
+            "min": 49.147,
+            "avg": 49.351,
+            "max": 49.769,
+            "mdev": 0.265
+        },
+        "tipy-vm-canadacentral": {
+            "min": 56.728,
+            "avg": 57.502,
+            "max": 57.988,
+            "mdev": 0.445
+        },
+        "tipy-vm-canadaeast": {
+            "min": 30.33,
+            "avg": 30.792,
+            "max": 31.778,
+            "mdev": 0.52
+        },
+        "tipy-vm-southcentralus": {
+            "min": 167.592,
+            "avg": 167.818,
+            "max": 168.249,
+            "mdev": 0.355
+        },
+        "tipy-vm-eastasia": {
+            "min": 191.589,
+            "avg": 192.132,
+            "max": 192.457,
+            "mdev": 0.496
+        },
+        "tipy-vm-southeastasia": {
+            "min": 170.921,
+            "avg": 171.434,
+            "max": 172.102,
+            "mdev": 0.425
+        },
+        "tipy-vm-australiaeast": {
+            "min": 183.146,
+            "avg": 183.473,
+            "max": 184.036,
+            "mdev": 0.52
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 140.487,
+            "avg": 140.799,
+            "max": 141.176,
+            "mdev": 0.442
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 123.275,
+            "avg": 123.401,
+            "max": 123.543,
+            "mdev": 0.239
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 111.943,
+            "avg": 112.291,
+            "max": 112.732,
+            "mdev": 0.288
+        },
+        "tipy-vm-francecentral": {
+            "min": 105.958,
+            "avg": 106.362,
+            "max": 106.877,
+            "mdev": 0.516
+        },
+        "tipy-vm-uksouth": {
+            "min": 109.417,
+            "avg": 109.952,
+            "max": 110.606,
+            "mdev": 0.487
+        },
+        "tipy-vm-ukwest": {
+            "min": 226.487,
+            "avg": 227.044,
+            "max": 228.012,
+            "mdev": 0.733
+        },
+        "tipy-vm-centralindia": {
+            "min": 233.53,
+            "avg": 233.761,
+            "max": 234.145,
+            "mdev": 0.237
+        },
+        "tipy-vm-southindia": {
+            "min": 125.073,
+            "avg": 125.299,
+            "max": 125.719,
+            "mdev": 0.447
+        },
+        "tipy-vm-japaneast": {
+            "min": 152.105,
+            "avg": 152.702,
+            "max": 153.956,
+            "mdev": 0.702
+        },
+        "tipy-vm-koreacentral": {
+            "min": 96.806,
+            "avg": 97.12,
+            "max": 97.391,
+            "mdev": 0.362
+        },
+        "tipy-vm-northeurope": {
+            "min": 129.362,
+            "avg": 129.707,
+            "max": 130.067,
+            "mdev": 0.234
+        },
+        "tipy-vm-norwayeast": {
+            "min": 140.92,
+            "avg": 141.021,
+            "max": 141.125,
+            "mdev": 0.418
+        },
+        "tipy-vm-swedencentral": {
+            "min": 216.668,
+            "avg": 217.097,
+            "max": 217.305,
+            "mdev": 0.631
+        },
+        "tipy-vm-uaenorth": {
+            "min": 111.874,
+            "avg": 112.166,
+            "max": 112.491,
+            "mdev": 0.437
+        },
+        "tipy-vm-westeurope": {
+            "min": 275.268,
+            "avg": 275.616,
+            "max": 276.082,
+            "mdev": 0.737
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 175.591,
+            "avg": 175.907,
+            "max": 176.101,
+            "mdev": 0.566
+        },
+        "tipy-vm-australiacentral": {
+            "min": 146.175,
+            "avg": 146.718,
+            "max": 147.9,
+            "mdev": 0.761
+        }
+    },
+    "tipy-vm-southcentralus": {
+        "tipy-vm-polandcentral": {
+            "min": 205.826,
+            "avg": 205.949,
+            "max": 206.179,
+            "mdev": 0.136
+        },
+        "tipy-vm-eastus": {
+            "min": 194.062,
+            "avg": 194.527,
+            "max": 195.192,
+            "mdev": 0.722
+        },
+        "tipy-vm-eastus2": {
+            "min": 170.626,
+            "avg": 170.727,
+            "max": 170.771,
+            "mdev": 0.266
+        },
+        "tipy-vm-westcentralus": {
+            "min": 148.03,
+            "avg": 148.624,
+            "max": 149.958,
+            "mdev": 0.842
+        },
+        "tipy-vm-westus": {
+            "min": 148.768,
+            "avg": 149.346,
+            "max": 150.23,
+            "mdev": 0.729
+        },
+        "tipy-vm-westus3": {
+            "min": 195.235,
+            "avg": 195.745,
+            "max": 196.217,
+            "mdev": 0.419
+        },
+        "tipy-vm-canadacentral": {
+            "min": 204.357,
+            "avg": 204.717,
+            "max": 205.308,
+            "mdev": 0.626
+        },
+        "tipy-vm-canadaeast": {
+            "min": 187.415,
+            "avg": 187.584,
+            "max": 187.712,
+            "mdev": 0.292
+        },
+        "tipy-vm-northcentralus": {
+            "min": 166.819,
+            "avg": 167.358,
+            "max": 167.819,
+            "mdev": 0.535
+        },
+        "tipy-vm-eastasia": {
+            "min": 31.375,
+            "avg": 31.72,
+            "max": 32.109,
+            "mdev": 0.326
+        },
+        "tipy-vm-southeastasia": {
+            "min": 121.288,
+            "avg": 121.969,
+            "max": 123.505,
+            "mdev": 0.882
+        },
+        "tipy-vm-australiaeast": {
+            "min": 118.677,
+            "avg": 118.866,
+            "max": 119.231,
+            "mdev": 0.289
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 325.312,
+            "avg": 325.498,
+            "max": 325.861,
+            "mdev": 0.228
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 182.381,
+            "avg": 183.767,
+            "max": 187.714,
+            "mdev": 1.998
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 177.291,
+            "avg": 177.741,
+            "max": 178.17,
+            "mdev": 0.654
+        },
+        "tipy-vm-francecentral": {
+            "min": 190.541,
+            "avg": 190.817,
+            "max": 191.029,
+            "mdev": 0.515
+        },
+        "tipy-vm-uksouth": {
+            "min": 188.393,
+            "avg": 188.624,
+            "max": 188.851,
+            "mdev": 0.5
+        },
+        "tipy-vm-ukwest": {
+            "min": 79.423,
+            "avg": 79.75,
+            "max": 80.378,
+            "mdev": 0.484
+        },
+        "tipy-vm-centralindia": {
+            "min": 66.157,
+            "avg": 66.562,
+            "max": 66.996,
+            "mdev": 0.372
+        },
+        "tipy-vm-southindia": {
+            "min": 44.175,
+            "avg": 44.487,
+            "max": 45.222,
+            "mdev": 0.397
+        },
+        "tipy-vm-japaneast": {
+            "min": 37.818,
+            "avg": 38.294,
+            "max": 39.017,
+            "mdev": 0.525
+        },
+        "tipy-vm-koreacentral": {
+            "min": 192.244,
+            "avg": 192.652,
+            "max": 193.107,
+            "mdev": 0.647
+        },
+        "tipy-vm-northeurope": {
+            "min": 207.219,
+            "avg": 207.491,
+            "max": 207.868,
+            "mdev": 0.467
+        },
+        "tipy-vm-norwayeast": {
+            "min": 206.889,
+            "avg": 207.157,
+            "max": 207.543,
+            "mdev": 0.477
+        },
+        "tipy-vm-swedencentral": {
+            "min": 109.726,
+            "avg": 110.214,
+            "max": 110.93,
+            "mdev": 0.608
+        },
+        "tipy-vm-uaenorth": {
+            "min": 186.783,
+            "avg": 186.917,
+            "max": 187.138,
+            "mdev": 0.491
+        },
+        "tipy-vm-westeurope": {
+            "min": 326.692,
+            "avg": 327.055,
+            "max": 327.428,
+            "mdev": 0.584
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 126.471,
+            "avg": 127.156,
+            "max": 128.491,
+            "mdev": 0.828
+        },
+        "tipy-vm-australiacentral": {
+            "min": 198.219,
+            "avg": 199.607,
+            "max": 203.298,
+            "mdev": 1.887
+        }
+    },
+    "tipy-vm-eastasia": {
+        "tipy-vm-polandcentral": {
+            "min": 226.413,
+            "avg": 226.618,
+            "max": 226.821,
+            "mdev": 0.167
+        },
+        "tipy-vm-eastus": {
+            "min": 216.866,
+            "avg": 218.043,
+            "max": 221.909,
+            "mdev": 1.94
+        },
+        "tipy-vm-eastus2": {
+            "min": 188.64,
+            "avg": 188.817,
+            "max": 188.98,
+            "mdev": 0.489
+        },
+        "tipy-vm-westcentralus": {
+            "min": 168.985,
+            "avg": 169.44,
+            "max": 169.698,
+            "mdev": 0.37
+        },
+        "tipy-vm-westus": {
+            "min": 173.864,
+            "avg": 174.396,
+            "max": 175.126,
+            "mdev": 0.676
+        },
+        "tipy-vm-westus3": {
+            "min": 215.75,
+            "avg": 216.213,
+            "max": 216.783,
+            "mdev": 0.649
+        },
+        "tipy-vm-canadacentral": {
+            "min": 226.393,
+            "avg": 226.822,
+            "max": 227.762,
+            "mdev": 0.709
+        },
+        "tipy-vm-canadaeast": {
+            "min": 204.331,
+            "avg": 204.59,
+            "max": 205.04,
+            "mdev": 0.628
+        },
+        "tipy-vm-northcentralus": {
+            "min": 191.643,
+            "avg": 192.102,
+            "max": 192.985,
+            "mdev": 0.568
+        },
+        "tipy-vm-southcentralus": {
+            "min": 31.636,
+            "avg": 31.985,
+            "max": 32.348,
+            "mdev": 0.363
+        },
+        "tipy-vm-southeastasia": {
+            "min": 87.592,
+            "avg": 87.841,
+            "max": 88.307,
+            "mdev": 0.414
+        },
+        "tipy-vm-australiaeast": {
+            "min": 82.164,
+            "avg": 82.548,
+            "max": 83.007,
+            "mdev": 0.464
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 341.871,
+            "avg": 342.236,
+            "max": 342.907,
+            "mdev": 0.352
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 148.019,
+            "avg": 148.229,
+            "max": 148.456,
+            "mdev": 0.294
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 144.84,
+            "avg": 145.295,
+            "max": 146.253,
+            "mdev": 0.567
+        },
+        "tipy-vm-francecentral": {
+            "min": 152.936,
+            "avg": 153.384,
+            "max": 154.253,
+            "mdev": 0.574
+        },
+        "tipy-vm-uksouth": {
+            "min": 171.499,
+            "avg": 171.676,
+            "max": 171.858,
+            "mdev": 0.143
+        },
+        "tipy-vm-ukwest": {
+            "min": 48.661,
+            "avg": 49.148,
+            "max": 50.507,
+            "mdev": 0.756
+        },
+        "tipy-vm-centralindia": {
+            "min": 34.567,
+            "avg": 34.94,
+            "max": 35.25,
+            "mdev": 0.288
+        },
+        "tipy-vm-southindia": {
+            "min": 69.878,
+            "avg": 70.622,
+            "max": 71.73,
+            "mdev": 0.688
+        },
+        "tipy-vm-japaneast": {
+            "min": 65.458,
+            "avg": 66.195,
+            "max": 66.874,
+            "mdev": 0.591
+        },
+        "tipy-vm-koreacentral": {
+            "min": 162.475,
+            "avg": 162.59,
+            "max": 162.71,
+            "mdev": 0.083
+        },
+        "tipy-vm-northeurope": {
+            "min": 174.243,
+            "avg": 174.706,
+            "max": 175.298,
+            "mdev": 0.364
+        },
+        "tipy-vm-norwayeast": {
+            "min": 178.188,
+            "avg": 178.515,
+            "max": 178.845,
+            "mdev": 0.363
+        },
+        "tipy-vm-swedencentral": {
+            "min": 75.717,
+            "avg": 76.043,
+            "max": 76.919,
+            "mdev": 0.536
+        },
+        "tipy-vm-uaenorth": {
+            "min": 155.856,
+            "avg": 156.157,
+            "max": 156.402,
+            "mdev": 0.197
+        },
+        "tipy-vm-westeurope": {
+            "min": 295.686,
+            "avg": 295.783,
+            "max": 295.923,
+            "mdev": 0.093
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 92.519,
+            "avg": 93.037,
+            "max": 93.698,
+            "mdev": 0.426
+        },
+        "tipy-vm-australiacentral": {
+            "min": 169.09,
+            "avg": 169.479,
+            "max": 170.595,
+            "mdev": 0.618
+        }
+    },
+    "tipy-vm-southeastasia": {
+        "tipy-vm-polandcentral": {
+            "min": 205.479,
+            "avg": 205.547,
+            "max": 205.619,
+            "mdev": 0.29
+        },
+        "tipy-vm-eastus": {
+            "min": 195.651,
+            "avg": 196.944,
+            "max": 200.984,
+            "mdev": 2.045
+        },
+        "tipy-vm-eastus2": {
+            "min": 161.389,
+            "avg": 162.082,
+            "max": 163.2,
+            "mdev": 0.819
+        },
+        "tipy-vm-westcentralus": {
+            "min": 138.282,
+            "avg": 138.893,
+            "max": 139.903,
+            "mdev": 0.665
+        },
+        "tipy-vm-westus": {
+            "min": 154.02,
+            "avg": 154.599,
+            "max": 155.781,
+            "mdev": 0.629
+        },
+        "tipy-vm-westus3": {
+            "min": 196.692,
+            "avg": 196.986,
+            "max": 197.215,
+            "mdev": 0.355
+        },
+        "tipy-vm-canadacentral": {
+            "min": 204.224,
+            "avg": 205.1,
+            "max": 208.52,
+            "mdev": 1.78
+        },
+        "tipy-vm-canadaeast": {
+            "min": 183.876,
+            "avg": 184.515,
+            "max": 186.039,
+            "mdev": 0.775
+        },
+        "tipy-vm-northcentralus": {
+            "min": 170.995,
+            "avg": 171.378,
+            "max": 171.773,
+            "mdev": 0.448
+        },
+        "tipy-vm-southcentralus": {
+            "min": 121.382,
+            "avg": 122.219,
+            "max": 123.818,
+            "mdev": 0.942
+        },
+        "tipy-vm-eastasia": {
+            "min": 87.707,
+            "avg": 88.131,
+            "max": 89.301,
+            "mdev": 0.653
+        },
+        "tipy-vm-australiaeast": {
+            "min": 13.84,
+            "avg": 14.052,
+            "max": 14.336,
+            "mdev": 0.213
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 313.862,
+            "avg": 314.02,
+            "max": 314.305,
+            "mdev": 0.727
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 231.642,
+            "avg": 232.459,
+            "max": 233.953,
+            "mdev": 0.926
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 234.363,
+            "avg": 234.647,
+            "max": 235.141,
+            "mdev": 0.518
+        },
+        "tipy-vm-francecentral": {
+            "min": 238.54,
+            "avg": 239.13,
+            "max": 239.658,
+            "mdev": 0.694
+        },
+        "tipy-vm-uksouth": {
+            "min": 242.164,
+            "avg": 243.809,
+            "max": 248.739,
+            "mdev": 2.52
+        },
+        "tipy-vm-ukwest": {
+            "min": 134.633,
+            "avg": 134.946,
+            "max": 135.394,
+            "mdev": 0.328
+        },
+        "tipy-vm-centralindia": {
+            "min": 121.11,
+            "avg": 121.268,
+            "max": 121.637,
+            "mdev": 0.48
+        },
+        "tipy-vm-southindia": {
+            "min": 101.776,
+            "avg": 103.11,
+            "max": 106.296,
+            "mdev": 1.672
+        },
+        "tipy-vm-japaneast": {
+            "min": 128.46,
+            "avg": 129.303,
+            "max": 131.467,
+            "mdev": 1.2
+        },
+        "tipy-vm-koreacentral": {
+            "min": 246.15,
+            "avg": 246.456,
+            "max": 246.711,
+            "mdev": 0.191
+        },
+        "tipy-vm-northeurope": {
+            "min": 257.471,
+            "avg": 258.049,
+            "max": 260.026,
+            "mdev": 1.042
+        },
+        "tipy-vm-norwayeast": {
+            "min": 260.495,
+            "avg": 260.902,
+            "max": 261.881,
+            "mdev": 0.68
+        },
+        "tipy-vm-swedencentral": {
+            "min": 162.291,
+            "avg": 162.724,
+            "max": 163.991,
+            "mdev": 0.783
+        },
+        "tipy-vm-uaenorth": {
+            "min": 237.697,
+            "avg": 237.802,
+            "max": 238.078,
+            "mdev": 0.139
+        },
+        "tipy-vm-westeurope": {
+            "min": 381.819,
+            "avg": 382.189,
+            "max": 382.467,
+            "mdev": 0.608
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 5.89,
+            "avg": 6.218,
+            "max": 6.442,
+            "mdev": 0.216
+        },
+        "tipy-vm-australiacentral": {
+            "min": 252.541,
+            "avg": 252.762,
+            "max": 253.035,
+            "mdev": 0.36
+        }
+    },
+    "tipy-vm-australiaeast": {
+        "tipy-vm-polandcentral": {
+            "min": 217.003,
+            "avg": 217.145,
+            "max": 217.221,
+            "mdev": 0.515
+        },
+        "tipy-vm-eastus": {
+            "min": 207.361,
+            "avg": 207.447,
+            "max": 207.652,
+            "mdev": 0.585
+        },
+        "tipy-vm-eastus2": {
+            "min": 173.207,
+            "avg": 173.57,
+            "max": 173.962,
+            "mdev": 0.527
+        },
+        "tipy-vm-westcentralus": {
+            "min": 150.106,
+            "avg": 150.403,
+            "max": 150.901,
+            "mdev": 0.558
+        },
+        "tipy-vm-westus": {
+            "min": 165.927,
+            "avg": 166.627,
+            "max": 167.835,
+            "mdev": 0.821
+        },
+        "tipy-vm-westus3": {
+            "min": 206.673,
+            "avg": 207.114,
+            "max": 208.121,
+            "mdev": 0.732
+        },
+        "tipy-vm-canadacentral": {
+            "min": 215.753,
+            "avg": 216.141,
+            "max": 216.691,
+            "mdev": 0.559
+        },
+        "tipy-vm-canadaeast": {
+            "min": 195.667,
+            "avg": 196.634,
+            "max": 198.849,
+            "mdev": 1.256
+        },
+        "tipy-vm-northcentralus": {
+            "min": 182.761,
+            "avg": 183.113,
+            "max": 183.47,
+            "mdev": 0.463
+        },
+        "tipy-vm-southcentralus": {
+            "min": 118.234,
+            "avg": 118.513,
+            "max": 118.941,
+            "mdev": 0.248
+        },
+        "tipy-vm-eastasia": {
+            "min": 82.149,
+            "avg": 82.413,
+            "max": 82.629,
+            "mdev": 0.318
+        },
+        "tipy-vm-southeastasia": {
+            "min": 13.679,
+            "avg": 14.118,
+            "max": 14.478,
+            "mdev": 0.319
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 320.181,
+            "avg": 320.291,
+            "max": 320.429,
+            "mdev": 0.721
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 226.753,
+            "avg": 227.093,
+            "max": 227.308,
+            "mdev": 0.631
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 227.969,
+            "avg": 228.323,
+            "max": 228.783,
+            "mdev": 0.661
+        },
+        "tipy-vm-francecentral": {
+            "min": 234.294,
+            "avg": 234.731,
+            "max": 235.165,
+            "mdev": 0.521
+        },
+        "tipy-vm-uksouth": {
+            "min": 236.308,
+            "avg": 236.398,
+            "max": 236.505,
+            "mdev": 0.618
+        },
+        "tipy-vm-ukwest": {
+            "min": 131.574,
+            "avg": 131.991,
+            "max": 132.59,
+            "mdev": 0.545
+        },
+        "tipy-vm-centralindia": {
+            "min": 116.114,
+            "avg": 116.427,
+            "max": 116.723,
+            "mdev": 0.434
+        },
+        "tipy-vm-southindia": {
+            "min": 113.727,
+            "avg": 114.375,
+            "max": 114.876,
+            "mdev": 0.529
+        },
+        "tipy-vm-japaneast": {
+            "min": 139.822,
+            "avg": 140.129,
+            "max": 140.567,
+            "mdev": 0.477
+        },
+        "tipy-vm-koreacentral": {
+            "min": 238.718,
+            "avg": 239.068,
+            "max": 239.427,
+            "mdev": 0.666
+        },
+        "tipy-vm-northeurope": {
+            "min": 253.946,
+            "avg": 254.48,
+            "max": 255.196,
+            "mdev": 0.686
+        },
+        "tipy-vm-norwayeast": {
+            "min": 255.198,
+            "avg": 255.58,
+            "max": 256.196,
+            "mdev": 0.486
+        },
+        "tipy-vm-swedencentral": {
+            "min": 167.464,
+            "avg": 167.775,
+            "max": 168.169,
+            "mdev": 0.532
+        },
+        "tipy-vm-uaenorth": {
+            "min": 235.167,
+            "avg": 235.343,
+            "max": 235.656,
+            "mdev": 0.356
+        },
+        "tipy-vm-westeurope": {
+            "min": 379.543,
+            "avg": 380.069,
+            "max": 380.377,
+            "mdev": 0.754
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 15.39,
+            "avg": 15.764,
+            "max": 15.932,
+            "mdev": 0.243
+        },
+        "tipy-vm-australiacentral": {
+            "min": 248.811,
+            "avg": 249.191,
+            "max": 249.878,
+            "mdev": 0.578
+        }
+    },
+    "tipy-vm-australiasoutheast": {
+        "tipy-vm-polandcentral": {
+            "min": 115.309,
+            "avg": 115.557,
+            "max": 115.783,
+            "mdev": 0.356
+        },
+        "tipy-vm-eastus": {
+            "min": 114.822,
+            "avg": 114.982,
+            "max": 115.276,
+            "mdev": 0.459
+        },
+        "tipy-vm-eastus2": {
+            "min": 157.843,
+            "avg": 158.46,
+            "max": 159.025,
+            "mdev": 0.488
+        },
+        "tipy-vm-westcentralus": {
+            "min": 175.989,
+            "avg": 176.429,
+            "max": 176.757,
+            "mdev": 0.292
+        },
+        "tipy-vm-westus": {
+            "min": 161.491,
+            "avg": 161.692,
+            "max": 161.906,
+            "mdev": 0.393
+        },
+        "tipy-vm-westus3": {
+            "min": 127.892,
+            "avg": 128.118,
+            "max": 128.364,
+            "mdev": 0.159
+        },
+        "tipy-vm-canadacentral": {
+            "min": 136.153,
+            "avg": 136.659,
+            "max": 138.338,
+            "mdev": 0.873
+        },
+        "tipy-vm-canadaeast": {
+            "min": 134.841,
+            "avg": 135.368,
+            "max": 135.809,
+            "mdev": 0.407
+        },
+        "tipy-vm-northcentralus": {
+            "min": 140.858,
+            "avg": 141.054,
+            "max": 141.353,
+            "mdev": 0.447
+        },
+        "tipy-vm-southcentralus": {
+            "min": 325.313,
+            "avg": 325.643,
+            "max": 325.891,
+            "mdev": 0.769
+        },
+        "tipy-vm-eastasia": {
+            "min": 342.188,
+            "avg": 342.33,
+            "max": 342.508,
+            "mdev": 0.651
+        },
+        "tipy-vm-southeastasia": {
+            "min": 315.626,
+            "avg": 316.047,
+            "max": 316.839,
+            "mdev": 0.836
+        },
+        "tipy-vm-australiaeast": {
+            "min": 320.045,
+            "avg": 320.506,
+            "max": 321.477,
+            "mdev": 0.795
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 193.943,
+            "avg": 194.349,
+            "max": 195.047,
+            "mdev": 0.608
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 182.441,
+            "avg": 182.661,
+            "max": 182.939,
+            "mdev": 0.507
+        },
+        "tipy-vm-francecentral": {
+            "min": 177.389,
+            "avg": 177.751,
+            "max": 178.251,
+            "mdev": 0.562
+        },
+        "tipy-vm-uksouth": {
+            "min": 178.67,
+            "avg": 178.929,
+            "max": 179.18,
+            "mdev": 0.208
+        },
+        "tipy-vm-ukwest": {
+            "min": 303.879,
+            "avg": 304.293,
+            "max": 304.628,
+            "mdev": 0.443
+        },
+        "tipy-vm-centralindia": {
+            "min": 328.085,
+            "avg": 328.505,
+            "max": 328.769,
+            "mdev": 0.591
+        },
+        "tipy-vm-southindia": {
+            "min": 277.767,
+            "avg": 278.251,
+            "max": 279.062,
+            "mdev": 0.57
+        },
+        "tipy-vm-japaneast": {
+            "min": 300.878,
+            "avg": 301.174,
+            "max": 301.814,
+            "mdev": 0.328
+        },
+        "tipy-vm-koreacentral": {
+            "min": 168.823,
+            "avg": 168.977,
+            "max": 169.248,
+            "mdev": 0.153
+        },
+        "tipy-vm-northeurope": {
+            "min": 203.764,
+            "avg": 204.062,
+            "max": 204.381,
+            "mdev": 0.614
+        },
+        "tipy-vm-norwayeast": {
+            "min": 204.674,
+            "avg": 204.814,
+            "max": 205.254,
+            "mdev": 0.542
+        },
+        "tipy-vm-swedencentral": {
+            "min": 292.029,
+            "avg": 292.483,
+            "max": 293.378,
+            "mdev": 0.769
+        },
+        "tipy-vm-uaenorth": {
+            "min": 182.058,
+            "avg": 182.304,
+            "max": 182.446,
+            "mdev": 0.559
+        },
+        "tipy-vm-westeurope": {
+            "min": 341.284,
+            "avg": 341.6,
+            "max": 341.964,
+            "mdev": 0.45
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 320.446,
+            "avg": 320.593,
+            "max": 320.741,
+            "mdev": 0.724
+        },
+        "tipy-vm-australiacentral": {
+            "min": 203.693,
+            "avg": 204.829,
+            "max": 206.612,
+            "mdev": 1.223
+        }
+    },
+    "tipy-vm-brazilsouth": {
+        "tipy-vm-polandcentral": {
+            "min": 93.604,
+            "avg": 93.885,
+            "max": 94.104,
+            "mdev": 0.345
+        },
+        "tipy-vm-eastus": {
+            "min": 98.054,
+            "avg": 98.316,
+            "max": 98.661,
+            "mdev": 0.451
+        },
+        "tipy-vm-eastus2": {
+            "min": 131.709,
+            "avg": 132.164,
+            "max": 132.477,
+            "mdev": 0.417
+        },
+        "tipy-vm-westcentralus": {
+            "min": 151.75,
+            "avg": 152.102,
+            "max": 152.447,
+            "mdev": 0.453
+        },
+        "tipy-vm-westus": {
+            "min": 140.299,
+            "avg": 140.667,
+            "max": 141.58,
+            "mdev": 0.462
+        },
+        "tipy-vm-westus3": {
+            "min": 110.164,
+            "avg": 110.584,
+            "max": 111.649,
+            "mdev": 0.664
+        },
+        "tipy-vm-canadacentral": {
+            "min": 119.116,
+            "avg": 119.398,
+            "max": 119.808,
+            "mdev": 0.339
+        },
+        "tipy-vm-canadaeast": {
+            "min": 108.267,
+            "avg": 108.671,
+            "max": 109.421,
+            "mdev": 0.593
+        },
+        "tipy-vm-northcentralus": {
+            "min": 123.023,
+            "avg": 123.237,
+            "max": 123.598,
+            "mdev": 0.443
+        },
+        "tipy-vm-southcentralus": {
+            "min": 177.862,
+            "avg": 178.208,
+            "max": 178.627,
+            "mdev": 0.467
+        },
+        "tipy-vm-eastasia": {
+            "min": 147.972,
+            "avg": 148.222,
+            "max": 148.485,
+            "mdev": 0.384
+        },
+        "tipy-vm-southeastasia": {
+            "min": 231.512,
+            "avg": 231.686,
+            "max": 231.937,
+            "mdev": 0.149
+        },
+        "tipy-vm-australiaeast": {
+            "min": 226.512,
+            "avg": 226.876,
+            "max": 227.188,
+            "mdev": 0.487
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 194.313,
+            "avg": 194.481,
+            "max": 194.64,
+            "mdev": 0.416
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 14.394,
+            "avg": 14.698,
+            "max": 15.245,
+            "mdev": 0.319
+        },
+        "tipy-vm-francecentral": {
+            "min": 19.803,
+            "avg": 19.968,
+            "max": 20.228,
+            "mdev": 0.154
+        },
+        "tipy-vm-uksouth": {
+            "min": 23.229,
+            "avg": 23.334,
+            "max": 23.544,
+            "mdev": 0.146
+        },
+        "tipy-vm-ukwest": {
+            "min": 123.597,
+            "avg": 123.984,
+            "max": 124.975,
+            "mdev": 0.635
+        },
+        "tipy-vm-centralindia": {
+            "min": 148.03,
+            "avg": 148.22,
+            "max": 148.547,
+            "mdev": 0.535
+        },
+        "tipy-vm-southindia": {
+            "min": 212.262,
+            "avg": 212.44,
+            "max": 212.897,
+            "mdev": 0.231
+        },
+        "tipy-vm-japaneast": {
+            "min": 213.257,
+            "avg": 214.243,
+            "max": 216.751,
+            "mdev": 1.314
+        },
+        "tipy-vm-koreacentral": {
+            "min": 29.824,
+            "avg": 30.134,
+            "max": 30.383,
+            "mdev": 0.238
+        },
+        "tipy-vm-northeurope": {
+            "min": 30.521,
+            "avg": 30.669,
+            "max": 31.045,
+            "mdev": 0.271
+        },
+        "tipy-vm-norwayeast": {
+            "min": 32.331,
+            "avg": 32.586,
+            "max": 32.876,
+            "mdev": 0.287
+        },
+        "tipy-vm-swedencentral": {
+            "min": 111.754,
+            "avg": 111.981,
+            "max": 112.125,
+            "mdev": 0.324
+        },
+        "tipy-vm-uaenorth": {
+            "min": 11.686,
+            "avg": 11.909,
+            "max": 12.13,
+            "mdev": 0.191
+        },
+        "tipy-vm-westeurope": {
+            "min": 181.2,
+            "avg": 181.487,
+            "max": 181.865,
+            "mdev": 0.596
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 236.519,
+            "avg": 237.019,
+            "max": 237.627,
+            "mdev": 0.662
+        },
+        "tipy-vm-australiacentral": {
+            "min": 23.097,
+            "avg": 23.277,
+            "max": 23.508,
+            "mdev": 0.231
+        }
+    },
+    "tipy-vm-switzerlandnorth": {
+        "tipy-vm-polandcentral": {
+            "min": 81.276,
+            "avg": 81.533,
+            "max": 81.858,
+            "mdev": 0.224
+        },
+        "tipy-vm-eastus": {
+            "min": 85.376,
+            "avg": 85.677,
+            "max": 86.32,
+            "mdev": 0.463
+        },
+        "tipy-vm-eastus2": {
+            "min": 119.194,
+            "avg": 119.532,
+            "max": 119.934,
+            "mdev": 0.244
+        },
+        "tipy-vm-westcentralus": {
+            "min": 140.198,
+            "avg": 140.804,
+            "max": 141.855,
+            "mdev": 0.723
+        },
+        "tipy-vm-westus": {
+            "min": 129.264,
+            "avg": 129.768,
+            "max": 130.38,
+            "mdev": 0.489
+        },
+        "tipy-vm-westus3": {
+            "min": 98.552,
+            "avg": 98.729,
+            "max": 98.917,
+            "mdev": 0.23
+        },
+        "tipy-vm-canadacentral": {
+            "min": 107.911,
+            "avg": 108.19,
+            "max": 108.745,
+            "mdev": 0.363
+        },
+        "tipy-vm-canadaeast": {
+            "min": 96.928,
+            "avg": 97.212,
+            "max": 97.583,
+            "mdev": 0.29
+        },
+        "tipy-vm-northcentralus": {
+            "min": 111.807,
+            "avg": 112.165,
+            "max": 112.688,
+            "mdev": 0.518
+        },
+        "tipy-vm-southcentralus": {
+            "min": 177.259,
+            "avg": 177.729,
+            "max": 178.738,
+            "mdev": 0.68
+        },
+        "tipy-vm-eastasia": {
+            "min": 145.109,
+            "avg": 145.447,
+            "max": 145.833,
+            "mdev": 0.266
+        },
+        "tipy-vm-southeastasia": {
+            "min": 234.326,
+            "avg": 234.614,
+            "max": 235.211,
+            "mdev": 0.438
+        },
+        "tipy-vm-australiaeast": {
+            "min": 230.218,
+            "avg": 230.582,
+            "max": 231.126,
+            "mdev": 0.55
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 182.558,
+            "avg": 183.715,
+            "max": 186.58,
+            "mdev": 1.533
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 15.36,
+            "avg": 15.963,
+            "max": 17.45,
+            "mdev": 0.778
+        },
+        "tipy-vm-francecentral": {
+            "min": 7.822,
+            "avg": 8.062,
+            "max": 8.399,
+            "mdev": 0.19
+        },
+        "tipy-vm-uksouth": {
+            "min": 10.441,
+            "avg": 10.719,
+            "max": 11.329,
+            "mdev": 0.312
+        },
+        "tipy-vm-ukwest": {
+            "min": 123.857,
+            "avg": 125.612,
+            "max": 127.957,
+            "mdev": 1.685
+        },
+        "tipy-vm-centralindia": {
+            "min": 148.164,
+            "avg": 148.498,
+            "max": 149.349,
+            "mdev": 0.655
+        },
+        "tipy-vm-southindia": {
+            "min": 212.254,
+            "avg": 212.518,
+            "max": 213.094,
+            "mdev": 0.426
+        },
+        "tipy-vm-japaneast": {
+            "min": 213.758,
+            "avg": 214.532,
+            "max": 215.25,
+            "mdev": 0.697
+        },
+        "tipy-vm-koreacentral": {
+            "min": 16.188,
+            "avg": 16.565,
+            "max": 17.014,
+            "mdev": 0.323
+        },
+        "tipy-vm-northeurope": {
+            "min": 27.351,
+            "avg": 27.545,
+            "max": 27.684,
+            "mdev": 0.22
+        },
+        "tipy-vm-norwayeast": {
+            "min": 35.669,
+            "avg": 36.208,
+            "max": 37.358,
+            "mdev": 0.628
+        },
+        "tipy-vm-swedencentral": {
+            "min": 110.89,
+            "avg": 111.226,
+            "max": 111.895,
+            "mdev": 0.535
+        },
+        "tipy-vm-uaenorth": {
+            "min": 8.63,
+            "avg": 8.774,
+            "max": 8.859,
+            "mdev": 0.141
+        },
+        "tipy-vm-westeurope": {
+            "min": 172.561,
+            "avg": 173.361,
+            "max": 174.216,
+            "mdev": 0.68
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 236.202,
+            "avg": 236.766,
+            "max": 237.371,
+            "mdev": 0.48
+        },
+        "tipy-vm-australiacentral": {
+            "min": 25.244,
+            "avg": 26.243,
+            "max": 26.817,
+            "mdev": 0.587
+        }
+    },
+    "tipy-vm-francecentral": {
+        "tipy-vm-polandcentral": {
+            "min": 75.592,
+            "avg": 75.763,
+            "max": 76.153,
+            "mdev": 0.328
+        },
+        "tipy-vm-eastus": {
+            "min": 79.627,
+            "avg": 79.977,
+            "max": 80.306,
+            "mdev": 0.455
+        },
+        "tipy-vm-eastus2": {
+            "min": 116.442,
+            "avg": 117.334,
+            "max": 118.707,
+            "mdev": 0.948
+        },
+        "tipy-vm-westcentralus": {
+            "min": 134.262,
+            "avg": 134.654,
+            "max": 135.23,
+            "mdev": 0.592
+        },
+        "tipy-vm-westus": {
+            "min": 123.484,
+            "avg": 123.801,
+            "max": 124.004,
+            "mdev": 0.363
+        },
+        "tipy-vm-westus3": {
+            "min": 91.838,
+            "avg": 92.091,
+            "max": 92.687,
+            "mdev": 0.493
+        },
+        "tipy-vm-canadacentral": {
+            "min": 101.798,
+            "avg": 102.057,
+            "max": 102.324,
+            "mdev": 0.452
+        },
+        "tipy-vm-canadaeast": {
+            "min": 90.136,
+            "avg": 90.525,
+            "max": 90.871,
+            "mdev": 0.343
+        },
+        "tipy-vm-northcentralus": {
+            "min": 106.1,
+            "avg": 106.366,
+            "max": 106.889,
+            "mdev": 0.498
+        },
+        "tipy-vm-southcentralus": {
+            "min": 185.82,
+            "avg": 186.057,
+            "max": 186.185,
+            "mdev": 0.561
+        },
+        "tipy-vm-eastasia": {
+            "min": 152.89,
+            "avg": 153.098,
+            "max": 153.276,
+            "mdev": 0.446
+        },
+        "tipy-vm-southeastasia": {
+            "min": 238.284,
+            "avg": 238.431,
+            "max": 238.576,
+            "mdev": 0.125
+        },
+        "tipy-vm-australiaeast": {
+            "min": 234.324,
+            "avg": 234.756,
+            "max": 235.244,
+            "mdev": 0.425
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 177.231,
+            "avg": 177.453,
+            "max": 177.725,
+            "mdev": 0.422
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 19.753,
+            "avg": 19.957,
+            "max": 20.34,
+            "mdev": 0.262
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 7.726,
+            "avg": 9.311,
+            "max": 13.309,
+            "mdev": 2.086
+        },
+        "tipy-vm-uksouth": {
+            "min": 5.759,
+            "avg": 5.956,
+            "max": 6.117,
+            "mdev": 0.16
+        },
+        "tipy-vm-ukwest": {
+            "min": 130.586,
+            "avg": 131.043,
+            "max": 131.616,
+            "mdev": 0.524
+        },
+        "tipy-vm-centralindia": {
+            "min": 153.141,
+            "avg": 153.589,
+            "max": 154.124,
+            "mdev": 0.62
+        },
+        "tipy-vm-southindia": {
+            "min": 215.417,
+            "avg": 216.094,
+            "max": 217.172,
+            "mdev": 0.826
+        },
+        "tipy-vm-japaneast": {
+            "min": 221.943,
+            "avg": 222.385,
+            "max": 223.123,
+            "mdev": 0.715
+        },
+        "tipy-vm-koreacentral": {
+            "min": 10.889,
+            "avg": 11.235,
+            "max": 11.825,
+            "mdev": 0.348
+        },
+        "tipy-vm-northeurope": {
+            "min": 25.844,
+            "avg": 26.572,
+            "max": 27.205,
+            "mdev": 0.538
+        },
+        "tipy-vm-norwayeast": {
+            "min": 36.087,
+            "avg": 36.388,
+            "max": 36.961,
+            "mdev": 0.329
+        },
+        "tipy-vm-swedencentral": {
+            "min": 116.322,
+            "avg": 116.703,
+            "max": 117.428,
+            "mdev": 0.391
+        },
+        "tipy-vm-uaenorth": {
+            "min": 7.777,
+            "avg": 7.967,
+            "max": 8.302,
+            "mdev": 0.213
+        },
+        "tipy-vm-westeurope": {
+            "min": 168.985,
+            "avg": 169.703,
+            "max": 171.526,
+            "mdev": 1.066
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 243.416,
+            "avg": 244.07,
+            "max": 245.92,
+            "mdev": 1.13
+        },
+        "tipy-vm-australiacentral": {
+            "min": 31.36,
+            "avg": 31.925,
+            "max": 32.419,
+            "mdev": 0.442
+        }
+    },
+    "tipy-vm-uksouth": {
+        "tipy-vm-polandcentral": {
+            "min": 78.112,
+            "avg": 78.318,
+            "max": 78.594,
+            "mdev": 0.319
+        },
+        "tipy-vm-eastus": {
+            "min": 83.396,
+            "avg": 83.458,
+            "max": 83.495,
+            "mdev": 0.186
+        },
+        "tipy-vm-eastus2": {
+            "min": 119.422,
+            "avg": 120.083,
+            "max": 120.687,
+            "mdev": 0.448
+        },
+        "tipy-vm-westcentralus": {
+            "min": 136.199,
+            "avg": 136.705,
+            "max": 137.148,
+            "mdev": 0.45
+        },
+        "tipy-vm-westus": {
+            "min": 127.482,
+            "avg": 128.017,
+            "max": 129.328,
+            "mdev": 0.813
+        },
+        "tipy-vm-westus3": {
+            "min": 94.922,
+            "avg": 95.393,
+            "max": 95.981,
+            "mdev": 0.419
+        },
+        "tipy-vm-canadacentral": {
+            "min": 104.695,
+            "avg": 105.113,
+            "max": 105.397,
+            "mdev": 0.481
+        },
+        "tipy-vm-canadaeast": {
+            "min": 94.889,
+            "avg": 95.238,
+            "max": 95.772,
+            "mdev": 0.505
+        },
+        "tipy-vm-northcentralus": {
+            "min": 110.403,
+            "avg": 110.644,
+            "max": 110.824,
+            "mdev": 0.286
+        },
+        "tipy-vm-southcentralus": {
+            "min": 188.468,
+            "avg": 188.866,
+            "max": 189.327,
+            "mdev": 0.479
+        },
+        "tipy-vm-eastasia": {
+            "min": 171.985,
+            "avg": 172.175,
+            "max": 172.505,
+            "mdev": 0.565
+        },
+        "tipy-vm-southeastasia": {
+            "min": 242.028,
+            "avg": 242.307,
+            "max": 242.583,
+            "mdev": 0.387
+        },
+        "tipy-vm-australiaeast": {
+            "min": 236.359,
+            "avg": 236.687,
+            "max": 237.544,
+            "mdev": 0.763
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 178.709,
+            "avg": 178.979,
+            "max": 179.467,
+            "mdev": 0.46
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 23.248,
+            "avg": 23.471,
+            "max": 23.741,
+            "mdev": 0.209
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 10.563,
+            "avg": 11.373,
+            "max": 12.566,
+            "mdev": 0.906
+        },
+        "tipy-vm-francecentral": {
+            "min": 5.614,
+            "avg": 5.8,
+            "max": 6.259,
+            "mdev": 0.263
+        },
+        "tipy-vm-ukwest": {
+            "min": 131.374,
+            "avg": 131.999,
+            "max": 132.832,
+            "mdev": 0.576
+        },
+        "tipy-vm-centralindia": {
+            "min": 155.759,
+            "avg": 155.956,
+            "max": 156.205,
+            "mdev": 0.314
+        },
+        "tipy-vm-southindia": {
+            "min": 220.658,
+            "avg": 221.311,
+            "max": 221.933,
+            "mdev": 0.502
+        },
+        "tipy-vm-japaneast": {
+            "min": 221.18,
+            "avg": 221.329,
+            "max": 221.486,
+            "mdev": 0.315
+        },
+        "tipy-vm-koreacentral": {
+            "min": 12.068,
+            "avg": 12.699,
+            "max": 13.866,
+            "mdev": 0.701
+        },
+        "tipy-vm-northeurope": {
+            "min": 29.341,
+            "avg": 29.426,
+            "max": 29.519,
+            "mdev": 0.229
+        },
+        "tipy-vm-norwayeast": {
+            "min": 37.414,
+            "avg": 38.363,
+            "max": 41.302,
+            "mdev": 1.479
+        },
+        "tipy-vm-swedencentral": {
+            "min": 121.086,
+            "avg": 121.426,
+            "max": 121.905,
+            "mdev": 0.467
+        },
+        "tipy-vm-uaenorth": {
+            "min": 12.568,
+            "avg": 12.749,
+            "max": 12.996,
+            "mdev": 0.233
+        },
+        "tipy-vm-westeurope": {
+            "min": 183.468,
+            "avg": 183.885,
+            "max": 184.558,
+            "mdev": 0.61
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 244.037,
+            "avg": 244.377,
+            "max": 244.538,
+            "mdev": 0.475
+        },
+        "tipy-vm-australiacentral": {
+            "min": 32.095,
+            "avg": 32.66,
+            "max": 33.751,
+            "mdev": 0.653
+        }
+    },
+    "tipy-vm-ukwest": {
+        "tipy-vm-polandcentral": {
+            "min": 202.342,
+            "avg": 203.015,
+            "max": 203.726,
+            "mdev": 0.764
+        },
+        "tipy-vm-eastus": {
+            "min": 198.87,
+            "avg": 199.521,
+            "max": 200.665,
+            "mdev": 0.692
+        },
+        "tipy-vm-eastus2": {
+            "min": 248.86,
+            "avg": 249.293,
+            "max": 249.81,
+            "mdev": 0.654
+        },
+        "tipy-vm-westcentralus": {
+            "min": 216.153,
+            "avg": 216.934,
+            "max": 218.633,
+            "mdev": 1.023
+        },
+        "tipy-vm-westus": {
+            "min": 230.344,
+            "avg": 231.219,
+            "max": 232.911,
+            "mdev": 1.043
+        },
+        "tipy-vm-westus3": {
+            "min": 213.857,
+            "avg": 214.548,
+            "max": 215.33,
+            "mdev": 0.84
+        },
+        "tipy-vm-canadacentral": {
+            "min": 222.459,
+            "avg": 222.884,
+            "max": 223.432,
+            "mdev": 0.377
+        },
+        "tipy-vm-canadaeast": {
+            "min": 222.447,
+            "avg": 222.719,
+            "max": 222.989,
+            "mdev": 0.371
+        },
+        "tipy-vm-northcentralus": {
+            "min": 226.307,
+            "avg": 226.567,
+            "max": 227.003,
+            "mdev": 0.575
+        },
+        "tipy-vm-southcentralus": {
+            "min": 79.615,
+            "avg": 80.015,
+            "max": 81.149,
+            "mdev": 0.673
+        },
+        "tipy-vm-eastasia": {
+            "min": 48.475,
+            "avg": 48.907,
+            "max": 49.223,
+            "mdev": 0.278
+        },
+        "tipy-vm-southeastasia": {
+            "min": 134.613,
+            "avg": 135.03,
+            "max": 135.71,
+            "mdev": 0.456
+        },
+        "tipy-vm-australiaeast": {
+            "min": 130.259,
+            "avg": 130.84,
+            "max": 131.62,
+            "mdev": 0.554
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 303.948,
+            "avg": 304.492,
+            "max": 305.202,
+            "mdev": 0.818
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 123.612,
+            "avg": 123.973,
+            "max": 124.477,
+            "mdev": 0.537
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 123.933,
+            "avg": 124.397,
+            "max": 124.834,
+            "mdev": 0.591
+        },
+        "tipy-vm-francecentral": {
+            "min": 130.037,
+            "avg": 130.442,
+            "max": 130.884,
+            "mdev": 0.372
+        },
+        "tipy-vm-uksouth": {
+            "min": 131.474,
+            "avg": 132.148,
+            "max": 132.751,
+            "mdev": 0.586
+        },
+        "tipy-vm-centralindia": {
+            "min": 22.021,
+            "avg": 22.662,
+            "max": 23.785,
+            "mdev": 0.679
+        },
+        "tipy-vm-southindia": {
+            "min": 116.062,
+            "avg": 116.933,
+            "max": 117.773,
+            "mdev": 0.805
+        },
+        "tipy-vm-japaneast": {
+            "min": 113.441,
+            "avg": 114.203,
+            "max": 115.381,
+            "mdev": 0.673
+        },
+        "tipy-vm-koreacentral": {
+            "min": 136.572,
+            "avg": 137.003,
+            "max": 137.592,
+            "mdev": 0.379
+        },
+        "tipy-vm-northeurope": {
+            "min": 147.878,
+            "avg": 148.44,
+            "max": 148.827,
+            "mdev": 0.607
+        },
+        "tipy-vm-norwayeast": {
+            "min": 152.136,
+            "avg": 153.565,
+            "max": 158.197,
+            "mdev": 2.321
+        },
+        "tipy-vm-swedencentral": {
+            "min": 31.54,
+            "avg": 32.52,
+            "max": 33.828,
+            "mdev": 0.896
+        },
+        "tipy-vm-uaenorth": {
+            "min": 133.059,
+            "avg": 134.013,
+            "max": 135.19,
+            "mdev": 1.014
+        },
+        "tipy-vm-westeurope": {
+            "min": 268.994,
+            "avg": 269.757,
+            "max": 271.309,
+            "mdev": 0.816
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 138.131,
+            "avg": 138.775,
+            "max": 140.36,
+            "mdev": 0.953
+        },
+        "tipy-vm-australiacentral": {
+            "min": 144.076,
+            "avg": 144.358,
+            "max": 144.631,
+            "mdev": 0.533
+        }
+    },
+    "tipy-vm-centralindia": {
+        "tipy-vm-polandcentral": {
+            "min": 226.44,
+            "avg": 226.612,
+            "max": 226.82,
+            "mdev": 0.341
+        },
+        "tipy-vm-eastus": {
+            "min": 226.833,
+            "avg": 227.0,
+            "max": 227.24,
+            "mdev": 0.539
+        },
+        "tipy-vm-eastus2": {
+            "min": 215.363,
+            "avg": 215.654,
+            "max": 216.066,
+            "mdev": 0.571
+        },
+        "tipy-vm-westcentralus": {
+            "min": 201.406,
+            "avg": 202.177,
+            "max": 202.953,
+            "mdev": 0.689
+        },
+        "tipy-vm-westus": {
+            "min": 216.34,
+            "avg": 216.78,
+            "max": 217.72,
+            "mdev": 0.72
+        },
+        "tipy-vm-westus3": {
+            "min": 238.484,
+            "avg": 239.01,
+            "max": 239.615,
+            "mdev": 0.617
+        },
+        "tipy-vm-canadacentral": {
+            "min": 246.533,
+            "avg": 246.839,
+            "max": 247.352,
+            "mdev": 0.685
+        },
+        "tipy-vm-canadaeast": {
+            "min": 246.514,
+            "avg": 247.098,
+            "max": 247.71,
+            "mdev": 0.67
+        },
+        "tipy-vm-northcentralus": {
+            "min": 233.806,
+            "avg": 234.003,
+            "max": 234.318,
+            "mdev": 0.178
+        },
+        "tipy-vm-southcentralus": {
+            "min": 66.22,
+            "avg": 67.243,
+            "max": 69.375,
+            "mdev": 1.158
+        },
+        "tipy-vm-eastasia": {
+            "min": 34.658,
+            "avg": 35.104,
+            "max": 36.183,
+            "mdev": 0.577
+        },
+        "tipy-vm-southeastasia": {
+            "min": 120.928,
+            "avg": 121.203,
+            "max": 121.833,
+            "mdev": 0.506
+        },
+        "tipy-vm-australiaeast": {
+            "min": 114.939,
+            "avg": 115.243,
+            "max": 115.468,
+            "mdev": 0.425
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 328.041,
+            "avg": 328.789,
+            "max": 330.664,
+            "mdev": 0.95
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 147.903,
+            "avg": 147.99,
+            "max": 148.064,
+            "mdev": 0.347
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 148.025,
+            "avg": 148.381,
+            "max": 149.032,
+            "mdev": 0.574
+        },
+        "tipy-vm-francecentral": {
+            "min": 153.027,
+            "avg": 153.424,
+            "max": 153.831,
+            "mdev": 0.418
+        },
+        "tipy-vm-uksouth": {
+            "min": 155.637,
+            "avg": 155.961,
+            "max": 156.266,
+            "mdev": 0.558
+        },
+        "tipy-vm-ukwest": {
+            "min": 21.981,
+            "avg": 22.355,
+            "max": 23.251,
+            "mdev": 0.492
+        },
+        "tipy-vm-southindia": {
+            "min": 102.273,
+            "avg": 102.656,
+            "max": 102.954,
+            "mdev": 0.231
+        },
+        "tipy-vm-japaneast": {
+            "min": 99.944,
+            "avg": 100.423,
+            "max": 101.788,
+            "mdev": 0.8
+        },
+        "tipy-vm-koreacentral": {
+            "min": 161.682,
+            "avg": 162.008,
+            "max": 162.555,
+            "mdev": 0.632
+        },
+        "tipy-vm-northeurope": {
+            "min": 172.758,
+            "avg": 172.893,
+            "max": 173.09,
+            "mdev": 0.288
+        },
+        "tipy-vm-norwayeast": {
+            "min": 176.446,
+            "avg": 176.6,
+            "max": 176.767,
+            "mdev": 0.398
+        },
+        "tipy-vm-swedencentral": {
+            "min": 48.978,
+            "avg": 49.146,
+            "max": 49.25,
+            "mdev": 0.176
+        },
+        "tipy-vm-uaenorth": {
+            "min": 154.299,
+            "avg": 154.495,
+            "max": 155.174,
+            "mdev": 0.421
+        },
+        "tipy-vm-westeurope": {
+            "min": 308.898,
+            "avg": 309.205,
+            "max": 309.457,
+            "mdev": 0.191
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 126.32,
+            "avg": 126.65,
+            "max": 127.016,
+            "mdev": 0.387
+        },
+        "tipy-vm-australiacentral": {
+            "min": 168.141,
+            "avg": 168.52,
+            "max": 169.212,
+            "mdev": 0.449
+        }
+    },
+    "tipy-vm-southindia": {
+        "tipy-vm-polandcentral": {
+            "min": 159.7,
+            "avg": 160.402,
+            "max": 160.969,
+            "mdev": 0.49
+        },
+        "tipy-vm-eastus": {
+            "min": 150.934,
+            "avg": 151.475,
+            "max": 152.233,
+            "mdev": 0.478
+        },
+        "tipy-vm-eastus2": {
+            "min": 124.884,
+            "avg": 125.798,
+            "max": 127.491,
+            "mdev": 0.989
+        },
+        "tipy-vm-westcentralus": {
+            "min": 105.866,
+            "avg": 106.427,
+            "max": 107.207,
+            "mdev": 0.606
+        },
+        "tipy-vm-westus": {
+            "min": 107.704,
+            "avg": 108.488,
+            "max": 109.479,
+            "mdev": 0.712
+        },
+        "tipy-vm-westus3": {
+            "min": 154.427,
+            "avg": 154.656,
+            "max": 155.092,
+            "mdev": 0.494
+        },
+        "tipy-vm-canadacentral": {
+            "min": 164.837,
+            "avg": 165.314,
+            "max": 165.875,
+            "mdev": 0.417
+        },
+        "tipy-vm-canadaeast": {
+            "min": 145.012,
+            "avg": 145.542,
+            "max": 146.377,
+            "mdev": 0.543
+        },
+        "tipy-vm-northcentralus": {
+            "min": 125.188,
+            "avg": 125.668,
+            "max": 126.114,
+            "mdev": 0.373
+        },
+        "tipy-vm-southcentralus": {
+            "min": 44.155,
+            "avg": 44.613,
+            "max": 45.301,
+            "mdev": 0.454
+        },
+        "tipy-vm-eastasia": {
+            "min": 69.632,
+            "avg": 71.191,
+            "max": 74.739,
+            "mdev": 1.827
+        },
+        "tipy-vm-southeastasia": {
+            "min": 101.671,
+            "avg": 102.157,
+            "max": 102.831,
+            "mdev": 0.553
+        },
+        "tipy-vm-australiaeast": {
+            "min": 113.657,
+            "avg": 114.091,
+            "max": 114.851,
+            "mdev": 0.598
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 277.794,
+            "avg": 278.727,
+            "max": 280.175,
+            "mdev": 0.828
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 220.479,
+            "avg": 221.095,
+            "max": 221.59,
+            "mdev": 0.718
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 212.261,
+            "avg": 212.497,
+            "max": 212.949,
+            "mdev": 0.577
+        },
+        "tipy-vm-francecentral": {
+            "min": 215.451,
+            "avg": 215.838,
+            "max": 216.204,
+            "mdev": 0.419
+        },
+        "tipy-vm-uksouth": {
+            "min": 220.853,
+            "avg": 221.106,
+            "max": 221.389,
+            "mdev": 0.356
+        },
+        "tipy-vm-ukwest": {
+            "min": 116.069,
+            "avg": 117.136,
+            "max": 118.789,
+            "mdev": 1.06
+        },
+        "tipy-vm-centralindia": {
+            "min": 102.56,
+            "avg": 102.832,
+            "max": 103.138,
+            "mdev": 0.358
+        },
+        "tipy-vm-japaneast": {
+            "min": 29.633,
+            "avg": 30.463,
+            "max": 31.922,
+            "mdev": 0.815
+        },
+        "tipy-vm-koreacentral": {
+            "min": 231.401,
+            "avg": 233.196,
+            "max": 239.482,
+            "mdev": 3.16
+        },
+        "tipy-vm-northeurope": {
+            "min": 235.327,
+            "avg": 235.62,
+            "max": 236.053,
+            "mdev": 0.285
+        },
+        "tipy-vm-norwayeast": {
+            "min": 239.656,
+            "avg": 240.527,
+            "max": 241.329,
+            "mdev": 0.622
+        },
+        "tipy-vm-swedencentral": {
+            "min": 147.812,
+            "avg": 148.106,
+            "max": 148.573,
+            "mdev": 0.492
+        },
+        "tipy-vm-uaenorth": {
+            "min": 217.074,
+            "avg": 217.466,
+            "max": 217.922,
+            "mdev": 0.532
+        },
+        "tipy-vm-westeurope": {
+            "min": 385.496,
+            "avg": 386.069,
+            "max": 386.981,
+            "mdev": 0.855
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 126.657,
+            "avg": 127.28,
+            "max": 127.754,
+            "mdev": 0.449
+        },
+        "tipy-vm-australiacentral": {
+            "min": 249.559,
+            "avg": 249.795,
+            "max": 250.08,
+            "mdev": 0.187
+        }
+    },
+    "tipy-vm-japaneast": {
+        "tipy-vm-polandcentral": {
+            "min": 181.553,
+            "avg": 183.338,
+            "max": 189.126,
+            "mdev": 2.944
+        },
+        "tipy-vm-eastus": {
+            "min": 183.989,
+            "avg": 184.244,
+            "max": 184.514,
+            "mdev": 0.503
+        },
+        "tipy-vm-eastus2": {
+            "min": 146.521,
+            "avg": 147.026,
+            "max": 148.061,
+            "mdev": 0.538
+        },
+        "tipy-vm-westcentralus": {
+            "min": 128.87,
+            "avg": 129.112,
+            "max": 129.301,
+            "mdev": 0.188
+        },
+        "tipy-vm-westus": {
+            "min": 134.176,
+            "avg": 135.015,
+            "max": 136.186,
+            "mdev": 0.778
+        },
+        "tipy-vm-westus3": {
+            "min": 177.676,
+            "avg": 177.931,
+            "max": 178.393,
+            "mdev": 0.455
+        },
+        "tipy-vm-canadacentral": {
+            "min": 186.159,
+            "avg": 187.375,
+            "max": 188.626,
+            "mdev": 1.08
+        },
+        "tipy-vm-canadaeast": {
+            "min": 165.755,
+            "avg": 166.025,
+            "max": 166.422,
+            "mdev": 0.287
+        },
+        "tipy-vm-northcentralus": {
+            "min": 151.84,
+            "avg": 152.459,
+            "max": 153.659,
+            "mdev": 0.738
+        },
+        "tipy-vm-southcentralus": {
+            "min": 37.796,
+            "avg": 38.32,
+            "max": 39.323,
+            "mdev": 0.59
+        },
+        "tipy-vm-eastasia": {
+            "min": 65.791,
+            "avg": 66.306,
+            "max": 66.678,
+            "mdev": 0.46
+        },
+        "tipy-vm-southeastasia": {
+            "min": 128.35,
+            "avg": 129.581,
+            "max": 131.598,
+            "mdev": 1.18
+        },
+        "tipy-vm-australiaeast": {
+            "min": 139.686,
+            "avg": 140.04,
+            "max": 140.58,
+            "mdev": 0.399
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 300.779,
+            "avg": 301.051,
+            "max": 301.612,
+            "mdev": 0.458
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 228.139,
+            "avg": 228.457,
+            "max": 228.817,
+            "mdev": 0.425
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 211.229,
+            "avg": 211.623,
+            "max": 212.083,
+            "mdev": 0.275
+        },
+        "tipy-vm-francecentral": {
+            "min": 222.058,
+            "avg": 222.337,
+            "max": 222.752,
+            "mdev": 0.403
+        },
+        "tipy-vm-uksouth": {
+            "min": 220.546,
+            "avg": 220.924,
+            "max": 221.432,
+            "mdev": 0.42
+        },
+        "tipy-vm-ukwest": {
+            "min": 113.354,
+            "avg": 113.938,
+            "max": 114.734,
+            "mdev": 0.624
+        },
+        "tipy-vm-centralindia": {
+            "min": 99.613,
+            "avg": 99.902,
+            "max": 100.385,
+            "mdev": 0.398
+        },
+        "tipy-vm-southindia": {
+            "min": 29.597,
+            "avg": 30.225,
+            "max": 31.021,
+            "mdev": 0.58
+        },
+        "tipy-vm-koreacentral": {
+            "min": 226.327,
+            "avg": 227.049,
+            "max": 227.789,
+            "mdev": 0.697
+        },
+        "tipy-vm-northeurope": {
+            "min": 238.787,
+            "avg": 239.287,
+            "max": 239.858,
+            "mdev": 0.471
+        },
+        "tipy-vm-norwayeast": {
+            "min": 242.396,
+            "avg": 242.595,
+            "max": 242.823,
+            "mdev": 0.167
+        },
+        "tipy-vm-swedencentral": {
+            "min": 144.243,
+            "avg": 144.447,
+            "max": 144.725,
+            "mdev": 0.52
+        },
+        "tipy-vm-uaenorth": {
+            "min": 220.992,
+            "avg": 221.396,
+            "max": 222.3,
+            "mdev": 0.572
+        },
+        "tipy-vm-westeurope": {
+            "min": 363.186,
+            "avg": 363.351,
+            "max": 363.525,
+            "mdev": 0.131
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 150.014,
+            "avg": 150.192,
+            "max": 150.384,
+            "mdev": 0.275
+        },
+        "tipy-vm-australiacentral": {
+            "min": 235.204,
+            "avg": 235.648,
+            "max": 236.24,
+            "mdev": 0.453
+        }
+    },
+    "tipy-vm-koreacentral": {
+        "tipy-vm-polandcentral": {
+            "min": 66.895,
+            "avg": 67.159,
+            "max": 67.422,
+            "mdev": 0.26
+        },
+        "tipy-vm-eastus": {
+            "min": 70.549,
+            "avg": 70.793,
+            "max": 71.095,
+            "mdev": 0.381
+        },
+        "tipy-vm-eastus2": {
+            "min": 110.295,
+            "avg": 111.008,
+            "max": 112.099,
+            "mdev": 0.632
+        },
+        "tipy-vm-westcentralus": {
+            "min": 130.944,
+            "avg": 131.439,
+            "max": 132.132,
+            "mdev": 0.532
+        },
+        "tipy-vm-westus": {
+            "min": 118.543,
+            "avg": 119.099,
+            "max": 120.131,
+            "mdev": 0.649
+        },
+        "tipy-vm-westus3": {
+            "min": 81.564,
+            "avg": 82.224,
+            "max": 83.044,
+            "mdev": 0.63
+        },
+        "tipy-vm-canadacentral": {
+            "min": 91.022,
+            "avg": 91.322,
+            "max": 91.658,
+            "mdev": 0.303
+        },
+        "tipy-vm-canadaeast": {
+            "min": 84.507,
+            "avg": 85.118,
+            "max": 85.951,
+            "mdev": 0.549
+        },
+        "tipy-vm-northcentralus": {
+            "min": 96.918,
+            "avg": 97.135,
+            "max": 97.356,
+            "mdev": 0.263
+        },
+        "tipy-vm-southcentralus": {
+            "min": 192.643,
+            "avg": 192.777,
+            "max": 192.911,
+            "mdev": 0.493
+        },
+        "tipy-vm-eastasia": {
+            "min": 162.615,
+            "avg": 163.471,
+            "max": 165.371,
+            "mdev": 1.014
+        },
+        "tipy-vm-southeastasia": {
+            "min": 247.612,
+            "avg": 248.409,
+            "max": 249.092,
+            "mdev": 0.745
+        },
+        "tipy-vm-australiaeast": {
+            "min": 240.787,
+            "avg": 241.064,
+            "max": 241.804,
+            "mdev": 0.724
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 168.926,
+            "avg": 169.176,
+            "max": 169.47,
+            "mdev": 0.236
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 29.618,
+            "avg": 30.743,
+            "max": 33.772,
+            "mdev": 1.573
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 16.446,
+            "avg": 16.695,
+            "max": 17.42,
+            "mdev": 0.366
+        },
+        "tipy-vm-francecentral": {
+            "min": 10.5,
+            "avg": 11.009,
+            "max": 11.874,
+            "mdev": 0.489
+        },
+        "tipy-vm-uksouth": {
+            "min": 11.921,
+            "avg": 12.094,
+            "max": 12.282,
+            "mdev": 0.179
+        },
+        "tipy-vm-ukwest": {
+            "min": 136.517,
+            "avg": 137.087,
+            "max": 138.138,
+            "mdev": 0.563
+        },
+        "tipy-vm-centralindia": {
+            "min": 161.678,
+            "avg": 161.87,
+            "max": 162.264,
+            "mdev": 0.417
+        },
+        "tipy-vm-southindia": {
+            "min": 231.462,
+            "avg": 231.756,
+            "max": 232.646,
+            "mdev": 0.45
+        },
+        "tipy-vm-japaneast": {
+            "min": 226.676,
+            "avg": 227.124,
+            "max": 227.83,
+            "mdev": 0.557
+        },
+        "tipy-vm-northeurope": {
+            "min": 36.297,
+            "avg": 36.519,
+            "max": 36.755,
+            "mdev": 0.226
+        },
+        "tipy-vm-norwayeast": {
+            "min": 43.483,
+            "avg": 43.893,
+            "max": 44.549,
+            "mdev": 0.375
+        },
+        "tipy-vm-swedencentral": {
+            "min": 124.888,
+            "avg": 125.359,
+            "max": 126.389,
+            "mdev": 0.559
+        },
+        "tipy-vm-uaenorth": {
+            "min": 15.548,
+            "avg": 15.867,
+            "max": 16.205,
+            "mdev": 0.27
+        },
+        "tipy-vm-westeurope": {
+            "min": 176.326,
+            "avg": 176.667,
+            "max": 176.916,
+            "mdev": 0.254
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 251.125,
+            "avg": 251.399,
+            "max": 251.659,
+            "mdev": 0.169
+        },
+        "tipy-vm-australiacentral": {
+            "min": 36.673,
+            "avg": 36.902,
+            "max": 37.172,
+            "mdev": 0.267
+        }
+    },
+    "tipy-vm-northeurope": {
+        "tipy-vm-polandcentral": {
+            "min": 100.671,
+            "avg": 100.823,
+            "max": 101.256,
+            "mdev": 0.36
+        },
+        "tipy-vm-eastus": {
+            "min": 103.1,
+            "avg": 103.344,
+            "max": 103.612,
+            "mdev": 0.335
+        },
+        "tipy-vm-eastus2": {
+            "min": 140.91,
+            "avg": 141.267,
+            "max": 141.725,
+            "mdev": 0.286
+        },
+        "tipy-vm-westcentralus": {
+            "min": 157.878,
+            "avg": 158.091,
+            "max": 158.629,
+            "mdev": 0.371
+        },
+        "tipy-vm-westus": {
+            "min": 146.759,
+            "avg": 147.101,
+            "max": 147.838,
+            "mdev": 0.524
+        },
+        "tipy-vm-westus3": {
+            "min": 114.836,
+            "avg": 115.213,
+            "max": 115.622,
+            "mdev": 0.258
+        },
+        "tipy-vm-canadacentral": {
+            "min": 125.41,
+            "avg": 125.654,
+            "max": 126.018,
+            "mdev": 0.466
+        },
+        "tipy-vm-canadaeast": {
+            "min": 114.338,
+            "avg": 114.718,
+            "max": 115.188,
+            "mdev": 0.418
+        },
+        "tipy-vm-northcentralus": {
+            "min": 129.35,
+            "avg": 129.728,
+            "max": 130.137,
+            "mdev": 0.471
+        },
+        "tipy-vm-southcentralus": {
+            "min": 207.062,
+            "avg": 207.474,
+            "max": 207.853,
+            "mdev": 0.636
+        },
+        "tipy-vm-eastasia": {
+            "min": 174.485,
+            "avg": 174.612,
+            "max": 174.792,
+            "mdev": 0.54
+        },
+        "tipy-vm-southeastasia": {
+            "min": 255.292,
+            "avg": 255.629,
+            "max": 256.032,
+            "mdev": 0.455
+        },
+        "tipy-vm-australiaeast": {
+            "min": 253.48,
+            "avg": 253.9,
+            "max": 254.428,
+            "mdev": 0.647
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 204.545,
+            "avg": 205.012,
+            "max": 205.368,
+            "mdev": 0.322
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 30.292,
+            "avg": 30.665,
+            "max": 31.0,
+            "mdev": 0.347
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 27.662,
+            "avg": 28.097,
+            "max": 28.601,
+            "mdev": 0.443
+        },
+        "tipy-vm-francecentral": {
+            "min": 26.604,
+            "avg": 26.802,
+            "max": 27.071,
+            "mdev": 0.185
+        },
+        "tipy-vm-uksouth": {
+            "min": 29.087,
+            "avg": 29.246,
+            "max": 29.445,
+            "mdev": 0.249
+        },
+        "tipy-vm-ukwest": {
+            "min": 148.004,
+            "avg": 148.492,
+            "max": 149.432,
+            "mdev": 0.681
+        },
+        "tipy-vm-centralindia": {
+            "min": 172.28,
+            "avg": 172.533,
+            "max": 172.839,
+            "mdev": 0.418
+        },
+        "tipy-vm-southindia": {
+            "min": 235.395,
+            "avg": 236.62,
+            "max": 239.035,
+            "mdev": 1.392
+        },
+        "tipy-vm-japaneast": {
+            "min": 238.634,
+            "avg": 238.955,
+            "max": 239.966,
+            "mdev": 0.509
+        },
+        "tipy-vm-koreacentral": {
+            "min": 36.239,
+            "avg": 36.7,
+            "max": 37.151,
+            "mdev": 0.406
+        },
+        "tipy-vm-norwayeast": {
+            "min": 8.886,
+            "avg": 9.205,
+            "max": 9.53,
+            "mdev": 0.248
+        },
+        "tipy-vm-swedencentral": {
+            "min": 136.485,
+            "avg": 136.878,
+            "max": 137.35,
+            "mdev": 0.377
+        },
+        "tipy-vm-uaenorth": {
+            "min": 19.513,
+            "avg": 19.83,
+            "max": 19.991,
+            "mdev": 0.182
+        },
+        "tipy-vm-westeurope": {
+            "min": 196.945,
+            "avg": 197.241,
+            "max": 197.504,
+            "mdev": 0.356
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 262.209,
+            "avg": 262.513,
+            "max": 263.005,
+            "mdev": 0.425
+        },
+        "tipy-vm-australiacentral": {
+            "min": 24.954,
+            "avg": 25.643,
+            "max": 26.525,
+            "mdev": 0.663
+        }
+    },
+    "tipy-vm-norwayeast": {
+        "tipy-vm-polandcentral": {
+            "min": 106.042,
+            "avg": 106.883,
+            "max": 109.157,
+            "mdev": 1.164
+        },
+        "tipy-vm-eastus": {
+            "min": 113.733,
+            "avg": 114.322,
+            "max": 114.817,
+            "mdev": 0.473
+        },
+        "tipy-vm-eastus2": {
+            "min": 147.354,
+            "avg": 147.511,
+            "max": 147.812,
+            "mdev": 0.165
+        },
+        "tipy-vm-westcentralus": {
+            "min": 170.659,
+            "avg": 171.194,
+            "max": 171.981,
+            "mdev": 0.619
+        },
+        "tipy-vm-westus": {
+            "min": 158.227,
+            "avg": 159.18,
+            "max": 161.344,
+            "mdev": 1.316
+        },
+        "tipy-vm-westus3": {
+            "min": 127.066,
+            "avg": 127.376,
+            "max": 128.191,
+            "mdev": 0.617
+        },
+        "tipy-vm-canadacentral": {
+            "min": 132.863,
+            "avg": 133.27,
+            "max": 133.696,
+            "mdev": 0.499
+        },
+        "tipy-vm-canadaeast": {
+            "min": 129.503,
+            "avg": 129.79,
+            "max": 130.26,
+            "mdev": 0.431
+        },
+        "tipy-vm-northcentralus": {
+            "min": 140.82,
+            "avg": 141.202,
+            "max": 141.88,
+            "mdev": 0.608
+        },
+        "tipy-vm-southcentralus": {
+            "min": 207.185,
+            "avg": 207.592,
+            "max": 208.081,
+            "mdev": 0.403
+        },
+        "tipy-vm-eastasia": {
+            "min": 178.355,
+            "avg": 178.793,
+            "max": 179.426,
+            "mdev": 0.565
+        },
+        "tipy-vm-southeastasia": {
+            "min": 262.794,
+            "avg": 263.107,
+            "max": 263.754,
+            "mdev": 0.735
+        },
+        "tipy-vm-australiaeast": {
+            "min": 256.211,
+            "avg": 256.425,
+            "max": 256.795,
+            "mdev": 0.669
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 204.465,
+            "avg": 204.883,
+            "max": 205.798,
+            "mdev": 0.559
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 32.712,
+            "avg": 33.449,
+            "max": 34.717,
+            "mdev": 0.747
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 35.956,
+            "avg": 36.229,
+            "max": 36.685,
+            "mdev": 0.365
+        },
+        "tipy-vm-francecentral": {
+            "min": 36.066,
+            "avg": 36.484,
+            "max": 36.766,
+            "mdev": 0.321
+        },
+        "tipy-vm-uksouth": {
+            "min": 39.62,
+            "avg": 39.91,
+            "max": 40.265,
+            "mdev": 0.333
+        },
+        "tipy-vm-ukwest": {
+            "min": 151.929,
+            "avg": 152.267,
+            "max": 152.816,
+            "mdev": 0.391
+        },
+        "tipy-vm-centralindia": {
+            "min": 176.474,
+            "avg": 176.759,
+            "max": 177.204,
+            "mdev": 0.532
+        },
+        "tipy-vm-southindia": {
+            "min": 239.633,
+            "avg": 240.064,
+            "max": 240.407,
+            "mdev": 0.277
+        },
+        "tipy-vm-japaneast": {
+            "min": 242.112,
+            "avg": 242.646,
+            "max": 243.412,
+            "mdev": 0.767
+        },
+        "tipy-vm-koreacentral": {
+            "min": 43.453,
+            "avg": 44.023,
+            "max": 44.817,
+            "mdev": 0.635
+        },
+        "tipy-vm-northeurope": {
+            "min": 8.965,
+            "avg": 9.323,
+            "max": 9.619,
+            "mdev": 0.266
+        },
+        "tipy-vm-swedencentral": {
+            "min": 140.478,
+            "avg": 141.6,
+            "max": 143.632,
+            "mdev": 1.194
+        },
+        "tipy-vm-uaenorth": {
+            "min": 24.419,
+            "avg": 24.645,
+            "max": 24.857,
+            "mdev": 0.255
+        },
+        "tipy-vm-westeurope": {
+            "min": 201.405,
+            "avg": 201.758,
+            "max": 202.345,
+            "mdev": 0.588
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 267.434,
+            "avg": 267.54,
+            "max": 267.704,
+            "mdev": 0.475
+        },
+        "tipy-vm-australiacentral": {
+            "min": 26.84,
+            "avg": 27.823,
+            "max": 30.368,
+            "mdev": 1.358
+        }
+    },
+    "tipy-vm-swedencentral": {
+        "tipy-vm-polandcentral": {
+            "min": 189.859,
+            "avg": 190.996,
+            "max": 194.821,
+            "mdev": 1.962
+        },
+        "tipy-vm-eastus": {
+            "min": 187.839,
+            "avg": 187.926,
+            "max": 188.174,
+            "mdev": 0.126
+        },
+        "tipy-vm-eastus2": {
+            "min": 231.408,
+            "avg": 232.146,
+            "max": 233.763,
+            "mdev": 1.027
+        },
+        "tipy-vm-westcentralus": {
+            "min": 258.19,
+            "avg": 258.39,
+            "max": 258.694,
+            "mdev": 0.484
+        },
+        "tipy-vm-westus": {
+            "min": 234.878,
+            "avg": 235.517,
+            "max": 236.571,
+            "mdev": 0.771
+        },
+        "tipy-vm-westus3": {
+            "min": 202.271,
+            "avg": 203.215,
+            "max": 204.266,
+            "mdev": 0.65
+        },
+        "tipy-vm-canadacentral": {
+            "min": 210.11,
+            "avg": 210.414,
+            "max": 210.749,
+            "mdev": 0.476
+        },
+        "tipy-vm-canadaeast": {
+            "min": 209.522,
+            "avg": 209.946,
+            "max": 210.678,
+            "mdev": 0.705
+        },
+        "tipy-vm-northcentralus": {
+            "min": 216.962,
+            "avg": 217.53,
+            "max": 217.821,
+            "mdev": 0.425
+        },
+        "tipy-vm-southcentralus": {
+            "min": 112.932,
+            "avg": 113.283,
+            "max": 113.503,
+            "mdev": 0.286
+        },
+        "tipy-vm-eastasia": {
+            "min": 75.553,
+            "avg": 76.057,
+            "max": 76.772,
+            "mdev": 0.497
+        },
+        "tipy-vm-southeastasia": {
+            "min": 161.883,
+            "avg": 162.179,
+            "max": 162.601,
+            "mdev": 0.232
+        },
+        "tipy-vm-australiaeast": {
+            "min": 167.382,
+            "avg": 167.728,
+            "max": 168.533,
+            "mdev": 0.668
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 292.025,
+            "avg": 292.189,
+            "max": 292.51,
+            "mdev": 0.388
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 111.869,
+            "avg": 112.31,
+            "max": 112.846,
+            "mdev": 0.385
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 111.275,
+            "avg": 111.618,
+            "max": 112.267,
+            "mdev": 0.345
+        },
+        "tipy-vm-francecentral": {
+            "min": 116.514,
+            "avg": 116.859,
+            "max": 117.07,
+            "mdev": 0.388
+        },
+        "tipy-vm-uksouth": {
+            "min": 121.182,
+            "avg": 121.63,
+            "max": 121.854,
+            "mdev": 0.324
+        },
+        "tipy-vm-ukwest": {
+            "min": 30.637,
+            "avg": 31.079,
+            "max": 31.483,
+            "mdev": 0.359
+        },
+        "tipy-vm-centralindia": {
+            "min": 51.241,
+            "avg": 51.428,
+            "max": 51.715,
+            "mdev": 0.257
+        },
+        "tipy-vm-southindia": {
+            "min": 147.642,
+            "avg": 148.228,
+            "max": 148.558,
+            "mdev": 0.331
+        },
+        "tipy-vm-japaneast": {
+            "min": 144.256,
+            "avg": 144.625,
+            "max": 145.025,
+            "mdev": 0.513
+        },
+        "tipy-vm-koreacentral": {
+            "min": 124.822,
+            "avg": 125.227,
+            "max": 125.734,
+            "mdev": 0.55
+        },
+        "tipy-vm-northeurope": {
+            "min": 136.521,
+            "avg": 136.689,
+            "max": 136.988,
+            "mdev": 0.372
+        },
+        "tipy-vm-norwayeast": {
+            "min": 140.697,
+            "avg": 141.1,
+            "max": 141.733,
+            "mdev": 0.589
+        },
+        "tipy-vm-uaenorth": {
+            "min": 117.319,
+            "avg": 117.701,
+            "max": 118.244,
+            "mdev": 0.321
+        },
+        "tipy-vm-westeurope": {
+            "min": 256.85,
+            "avg": 257.353,
+            "max": 257.943,
+            "mdev": 0.54
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 165.295,
+            "avg": 165.706,
+            "max": 166.102,
+            "mdev": 0.347
+        },
+        "tipy-vm-australiacentral": {
+            "min": 132.356,
+            "avg": 132.929,
+            "max": 133.315,
+            "mdev": 0.525
+        }
+    },
+    "tipy-vm-uaenorth": {
+        "tipy-vm-polandcentral": {
+            "min": 81.619,
+            "avg": 81.703,
+            "max": 81.818,
+            "mdev": 0.322
+        },
+        "tipy-vm-eastus": {
+            "min": 85.783,
+            "avg": 85.872,
+            "max": 86.015,
+            "mdev": 0.273
+        },
+        "tipy-vm-eastus2": {
+            "min": 122.493,
+            "avg": 122.872,
+            "max": 123.101,
+            "mdev": 0.384
+        },
+        "tipy-vm-westcentralus": {
+            "min": 141.097,
+            "avg": 141.472,
+            "max": 142.004,
+            "mdev": 0.585
+        },
+        "tipy-vm-westus": {
+            "min": 129.519,
+            "avg": 129.632,
+            "max": 129.754,
+            "mdev": 0.33
+        },
+        "tipy-vm-westus3": {
+            "min": 97.471,
+            "avg": 97.686,
+            "max": 97.862,
+            "mdev": 0.308
+        },
+        "tipy-vm-canadacentral": {
+            "min": 107.368,
+            "avg": 107.485,
+            "max": 107.639,
+            "mdev": 0.305
+        },
+        "tipy-vm-canadaeast": {
+            "min": 97.014,
+            "avg": 97.298,
+            "max": 97.538,
+            "mdev": 0.445
+        },
+        "tipy-vm-northcentralus": {
+            "min": 111.944,
+            "avg": 112.241,
+            "max": 112.866,
+            "mdev": 0.549
+        },
+        "tipy-vm-southcentralus": {
+            "min": 186.829,
+            "avg": 187.092,
+            "max": 187.442,
+            "mdev": 0.53
+        },
+        "tipy-vm-eastasia": {
+            "min": 155.865,
+            "avg": 156.073,
+            "max": 156.282,
+            "mdev": 0.382
+        },
+        "tipy-vm-southeastasia": {
+            "min": 237.493,
+            "avg": 237.675,
+            "max": 237.959,
+            "mdev": 0.164
+        },
+        "tipy-vm-australiaeast": {
+            "min": 235.2,
+            "avg": 235.348,
+            "max": 235.681,
+            "mdev": 0.561
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 182.067,
+            "avg": 182.194,
+            "max": 182.361,
+            "mdev": 0.48
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 11.6,
+            "avg": 11.782,
+            "max": 12.027,
+            "mdev": 0.174
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 8.764,
+            "avg": 8.9,
+            "max": 9.273,
+            "mdev": 0.222
+        },
+        "tipy-vm-francecentral": {
+            "min": 7.914,
+            "avg": 8.475,
+            "max": 9.007,
+            "mdev": 0.416
+        },
+        "tipy-vm-uksouth": {
+            "min": 12.574,
+            "avg": 13.386,
+            "max": 16.177,
+            "mdev": 1.396
+        },
+        "tipy-vm-ukwest": {
+            "min": 132.929,
+            "avg": 133.382,
+            "max": 134.02,
+            "mdev": 0.388
+        },
+        "tipy-vm-centralindia": {
+            "min": 154.148,
+            "avg": 154.316,
+            "max": 154.514,
+            "mdev": 0.453
+        },
+        "tipy-vm-southindia": {
+            "min": 216.913,
+            "avg": 218.396,
+            "max": 222.028,
+            "mdev": 1.922
+        },
+        "tipy-vm-japaneast": {
+            "min": 220.937,
+            "avg": 221.005,
+            "max": 221.091,
+            "mdev": 0.597
+        },
+        "tipy-vm-koreacentral": {
+            "min": 15.594,
+            "avg": 15.737,
+            "max": 15.986,
+            "mdev": 0.16
+        },
+        "tipy-vm-northeurope": {
+            "min": 19.841,
+            "avg": 20.224,
+            "max": 21.507,
+            "mdev": 0.664
+        },
+        "tipy-vm-norwayeast": {
+            "min": 24.708,
+            "avg": 24.82,
+            "max": 24.988,
+            "mdev": 0.202
+        },
+        "tipy-vm-swedencentral": {
+            "min": 117.365,
+            "avg": 117.636,
+            "max": 117.968,
+            "mdev": 0.477
+        },
+        "tipy-vm-westeurope": {
+            "min": 182.859,
+            "avg": 183.362,
+            "max": 183.775,
+            "mdev": 0.517
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 248.073,
+            "avg": 248.305,
+            "max": 248.487,
+            "mdev": 0.342
+        },
+        "tipy-vm-australiacentral": {
+            "min": 22.525,
+            "avg": 22.801,
+            "max": 23.227,
+            "mdev": 0.296
+        }
+    },
+    "tipy-vm-westeurope": {
+        "tipy-vm-polandcentral": {
+            "min": 239.098,
+            "avg": 239.247,
+            "max": 239.432,
+            "mdev": 0.335
+        },
+        "tipy-vm-eastus": {
+            "min": 249.338,
+            "avg": 249.679,
+            "max": 249.943,
+            "mdev": 0.663
+        },
+        "tipy-vm-eastus2": {
+            "min": 292.348,
+            "avg": 292.611,
+            "max": 293.1,
+            "mdev": 0.548
+        },
+        "tipy-vm-westcentralus": {
+            "min": 312.132,
+            "avg": 312.921,
+            "max": 313.567,
+            "mdev": 0.768
+        },
+        "tipy-vm-westus": {
+            "min": 294.935,
+            "avg": 295.281,
+            "max": 295.76,
+            "mdev": 0.275
+        },
+        "tipy-vm-westus3": {
+            "min": 250.797,
+            "avg": 251.314,
+            "max": 252.162,
+            "mdev": 0.575
+        },
+        "tipy-vm-canadacentral": {
+            "min": 268.232,
+            "avg": 268.564,
+            "max": 269.016,
+            "mdev": 0.63
+        },
+        "tipy-vm-canadaeast": {
+            "min": 262.125,
+            "avg": 262.47,
+            "max": 263.102,
+            "mdev": 0.662
+        },
+        "tipy-vm-northcentralus": {
+            "min": 275.094,
+            "avg": 275.449,
+            "max": 275.909,
+            "mdev": 0.263
+        },
+        "tipy-vm-southcentralus": {
+            "min": 326.546,
+            "avg": 327.061,
+            "max": 327.614,
+            "mdev": 0.613
+        },
+        "tipy-vm-eastasia": {
+            "min": 295.436,
+            "avg": 295.921,
+            "max": 297.066,
+            "mdev": 0.838
+        },
+        "tipy-vm-southeastasia": {
+            "min": 382.018,
+            "avg": 382.314,
+            "max": 382.653,
+            "mdev": 0.231
+        },
+        "tipy-vm-australiaeast": {
+            "min": 373.939,
+            "avg": 374.248,
+            "max": 374.54,
+            "mdev": 0.447
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 340.941,
+            "avg": 341.158,
+            "max": 341.515,
+            "mdev": 0.416
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 172.528,
+            "avg": 172.965,
+            "max": 173.571,
+            "mdev": 0.431
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 172.767,
+            "avg": 173.062,
+            "max": 173.383,
+            "mdev": 0.582
+        },
+        "tipy-vm-francecentral": {
+            "min": 169.089,
+            "avg": 169.253,
+            "max": 169.416,
+            "mdev": 0.287
+        },
+        "tipy-vm-uksouth": {
+            "min": 184.056,
+            "avg": 184.247,
+            "max": 184.375,
+            "mdev": 0.554
+        },
+        "tipy-vm-ukwest": {
+            "min": 269.127,
+            "avg": 269.497,
+            "max": 269.927,
+            "mdev": 0.461
+        },
+        "tipy-vm-centralindia": {
+            "min": 308.967,
+            "avg": 309.073,
+            "max": 309.243,
+            "mdev": 0.506
+        },
+        "tipy-vm-southindia": {
+            "min": 385.177,
+            "avg": 385.88,
+            "max": 386.943,
+            "mdev": 0.987
+        },
+        "tipy-vm-japaneast": {
+            "min": 363.243,
+            "avg": 364.538,
+            "max": 366.169,
+            "mdev": 1.463
+        },
+        "tipy-vm-koreacentral": {
+            "min": 176.32,
+            "avg": 176.503,
+            "max": 176.954,
+            "mdev": 0.519
+        },
+        "tipy-vm-northeurope": {
+            "min": 196.959,
+            "avg": 197.301,
+            "max": 197.833,
+            "mdev": 0.513
+        },
+        "tipy-vm-norwayeast": {
+            "min": 201.479,
+            "avg": 201.707,
+            "max": 202.023,
+            "mdev": 0.6
+        },
+        "tipy-vm-swedencentral": {
+            "min": 256.516,
+            "avg": 256.945,
+            "max": 257.582,
+            "mdev": 0.474
+        },
+        "tipy-vm-uaenorth": {
+            "min": 182.892,
+            "avg": 183.156,
+            "max": 183.58,
+            "mdev": 0.242
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 388.803,
+            "avg": 389.01,
+            "max": 389.171,
+            "mdev": 0.576
+        },
+        "tipy-vm-australiacentral": {
+            "min": 196.572,
+            "avg": 196.989,
+            "max": 197.874,
+            "mdev": 0.673
+        }
+    },
+    "tipy-vm-southafricanorth": {
+        "tipy-vm-polandcentral": {
+            "min": 212.833,
+            "avg": 212.986,
+            "max": 213.089,
+            "mdev": 0.52
+        },
+        "tipy-vm-eastus": {
+            "min": 205.088,
+            "avg": 205.538,
+            "max": 206.194,
+            "mdev": 0.563
+        },
+        "tipy-vm-eastus2": {
+            "min": 166.987,
+            "avg": 167.224,
+            "max": 167.391,
+            "mdev": 0.538
+        },
+        "tipy-vm-westcentralus": {
+            "min": 141.632,
+            "avg": 142.409,
+            "max": 143.638,
+            "mdev": 0.75
+        },
+        "tipy-vm-westus": {
+            "min": 157.673,
+            "avg": 157.984,
+            "max": 158.235,
+            "mdev": 0.313
+        },
+        "tipy-vm-westus3": {
+            "min": 200.118,
+            "avg": 200.82,
+            "max": 202.409,
+            "mdev": 0.989
+        },
+        "tipy-vm-canadacentral": {
+            "min": 215.498,
+            "avg": 215.993,
+            "max": 216.647,
+            "mdev": 0.535
+        },
+        "tipy-vm-canadaeast": {
+            "min": 190.253,
+            "avg": 190.552,
+            "max": 191.034,
+            "mdev": 0.42
+        },
+        "tipy-vm-northcentralus": {
+            "min": 175.457,
+            "avg": 175.875,
+            "max": 176.375,
+            "mdev": 0.42
+        },
+        "tipy-vm-southcentralus": {
+            "min": 126.503,
+            "avg": 126.68,
+            "max": 126.887,
+            "mdev": 0.353
+        },
+        "tipy-vm-eastasia": {
+            "min": 92.573,
+            "avg": 92.87,
+            "max": 93.449,
+            "mdev": 0.357
+        },
+        "tipy-vm-southeastasia": {
+            "min": 5.878,
+            "avg": 6.105,
+            "max": 6.231,
+            "mdev": 0.143
+        },
+        "tipy-vm-australiaeast": {
+            "min": 15.316,
+            "avg": 15.627,
+            "max": 16.008,
+            "mdev": 0.302
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 324.396,
+            "avg": 324.65,
+            "max": 325.025,
+            "mdev": 0.421
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 236.777,
+            "avg": 236.916,
+            "max": 236.988,
+            "mdev": 0.441
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 236.098,
+            "avg": 236.522,
+            "max": 237.268,
+            "mdev": 0.759
+        },
+        "tipy-vm-francecentral": {
+            "min": 240.838,
+            "avg": 241.149,
+            "max": 241.432,
+            "mdev": 0.587
+        },
+        "tipy-vm-uksouth": {
+            "min": 244.049,
+            "avg": 244.443,
+            "max": 244.848,
+            "mdev": 0.441
+        },
+        "tipy-vm-ukwest": {
+            "min": 139.246,
+            "avg": 139.998,
+            "max": 140.842,
+            "mdev": 0.755
+        },
+        "tipy-vm-centralindia": {
+            "min": 126.324,
+            "avg": 126.591,
+            "max": 126.854,
+            "mdev": 0.447
+        },
+        "tipy-vm-southindia": {
+            "min": 127.061,
+            "avg": 127.206,
+            "max": 127.393,
+            "mdev": 0.254
+        },
+        "tipy-vm-japaneast": {
+            "min": 150.052,
+            "avg": 150.444,
+            "max": 150.886,
+            "mdev": 0.455
+        },
+        "tipy-vm-koreacentral": {
+            "min": 251.057,
+            "avg": 251.382,
+            "max": 251.575,
+            "mdev": 0.482
+        },
+        "tipy-vm-northeurope": {
+            "min": 260.164,
+            "avg": 260.613,
+            "max": 261.65,
+            "mdev": 0.84
+        },
+        "tipy-vm-norwayeast": {
+            "min": 267.354,
+            "avg": 267.685,
+            "max": 268.027,
+            "mdev": 0.621
+        },
+        "tipy-vm-swedencentral": {
+            "min": 165.625,
+            "avg": 165.994,
+            "max": 166.329,
+            "mdev": 0.341
+        },
+        "tipy-vm-uaenorth": {
+            "min": 247.546,
+            "avg": 247.762,
+            "max": 247.926,
+            "mdev": 0.565
+        },
+        "tipy-vm-westeurope": {
+            "min": 388.761,
+            "avg": 389.121,
+            "max": 389.293,
+            "mdev": 0.441
+        },
+        "tipy-vm-australiacentral": {
+            "min": 262.624,
+            "avg": 263.098,
+            "max": 263.655,
+            "mdev": 0.357
+        }
+    },
+    "tipy-vm-australiacentral": {
+        "tipy-vm-polandcentral": {
+            "min": 115.885,
+            "avg": 116.24,
+            "max": 116.757,
+            "mdev": 0.432
+        },
+        "tipy-vm-eastus": {
+            "min": 105.241,
+            "avg": 105.605,
+            "max": 106.04,
+            "mdev": 0.476
+        },
+        "tipy-vm-eastus2": {
+            "min": 143.919,
+            "avg": 144.399,
+            "max": 144.792,
+            "mdev": 0.576
+        },
+        "tipy-vm-westcentralus": {
+            "min": 175.006,
+            "avg": 175.761,
+            "max": 176.348,
+            "mdev": 0.511
+        },
+        "tipy-vm-westus": {
+            "min": 157.061,
+            "avg": 157.72,
+            "max": 158.848,
+            "mdev": 0.783
+        },
+        "tipy-vm-westus3": {
+            "min": 113.434,
+            "avg": 113.791,
+            "max": 114.648,
+            "mdev": 0.624
+        },
+        "tipy-vm-canadacentral": {
+            "min": 121.965,
+            "avg": 122.392,
+            "max": 122.728,
+            "mdev": 0.347
+        },
+        "tipy-vm-canadaeast": {
+            "min": 131.038,
+            "avg": 132.052,
+            "max": 133.199,
+            "mdev": 0.907
+        },
+        "tipy-vm-northcentralus": {
+            "min": 136.185,
+            "avg": 136.531,
+            "max": 136.817,
+            "mdev": 0.388
+        },
+        "tipy-vm-southcentralus": {
+            "min": 198.092,
+            "avg": 198.841,
+            "max": 199.235,
+            "mdev": 0.393
+        },
+        "tipy-vm-eastasia": {
+            "min": 168.75,
+            "avg": 169.31,
+            "max": 169.712,
+            "mdev": 0.442
+        },
+        "tipy-vm-southeastasia": {
+            "min": 252.37,
+            "avg": 252.724,
+            "max": 252.931,
+            "mdev": 0.388
+        },
+        "tipy-vm-australiaeast": {
+            "min": 248.579,
+            "avg": 249.3,
+            "max": 250.22,
+            "mdev": 0.778
+        },
+        "tipy-vm-australiasoutheast": {
+            "min": 203.554,
+            "avg": 203.918,
+            "max": 204.109,
+            "mdev": 0.614
+        },
+        "tipy-vm-brazilsouth": {
+            "min": 22.454,
+            "avg": 22.973,
+            "max": 23.838,
+            "mdev": 0.475
+        },
+        "tipy-vm-switzerlandnorth": {
+            "min": 25.183,
+            "avg": 26.029,
+            "max": 27.354,
+            "mdev": 0.734
+        },
+        "tipy-vm-francecentral": {
+            "min": 28.407,
+            "avg": 28.864,
+            "max": 29.732,
+            "mdev": 0.5
+        },
+        "tipy-vm-uksouth": {
+            "min": 32.126,
+            "avg": 32.565,
+            "max": 33.315,
+            "mdev": 0.473
+        },
+        "tipy-vm-ukwest": {
+            "min": 143.67,
+            "avg": 144.647,
+            "max": 145.741,
+            "mdev": 0.876
+        },
+        "tipy-vm-centralindia": {
+            "min": 166.018,
+            "avg": 166.386,
+            "max": 166.895,
+            "mdev": 0.439
+        },
+        "tipy-vm-southindia": {
+            "min": 249.141,
+            "avg": 249.523,
+            "max": 249.931,
+            "mdev": 0.63
+        },
+        "tipy-vm-japaneast": {
+            "min": 234.941,
+            "avg": 235.61,
+            "max": 235.98,
+            "mdev": 0.478
+        },
+        "tipy-vm-koreacentral": {
+            "min": 36.606,
+            "avg": 36.908,
+            "max": 37.318,
+            "mdev": 0.343
+        },
+        "tipy-vm-northeurope": {
+            "min": 25.008,
+            "avg": 25.182,
+            "max": 25.257,
+            "mdev": 0.135
+        },
+        "tipy-vm-norwayeast": {
+            "min": 27.024,
+            "avg": 27.316,
+            "max": 27.838,
+            "mdev": 0.365
+        },
+        "tipy-vm-swedencentral": {
+            "min": 132.222,
+            "avg": 132.893,
+            "max": 134.033,
+            "mdev": 0.616
+        },
+        "tipy-vm-uaenorth": {
+            "min": 22.613,
+            "avg": 22.921,
+            "max": 23.442,
+            "mdev": 0.284
+        },
+        "tipy-vm-westeurope": {
+            "min": 196.531,
+            "avg": 197.04,
+            "max": 197.457,
+            "mdev": 0.649
+        },
+        "tipy-vm-southafricanorth": {
+            "min": 262.566,
+            "avg": 262.803,
+            "max": 263.099,
+            "mdev": 0.491
+        }
+    }
+}
