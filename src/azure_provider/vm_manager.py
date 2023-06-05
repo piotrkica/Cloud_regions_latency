@@ -4,6 +4,7 @@ from azure_provider.resource_cleaner import cleanup_resource
 from common.vm_details import VmDetails
 from azure.identity import AzureCliCredential
 from azure.mgmt.compute import ComputeManagementClient
+from functools import partial
 
 
 class VmManager:
@@ -64,7 +65,6 @@ class VmManager:
 
     def cleanup(self, locations: "list[ResourceLocation]"):
         cleanup_resource([self._vm_name(location) for location in locations], [
-            lambda: self._compute_client.virtual_machines.begin_delete(
-                location.rg, self._vm_name(location))
+            partial(lambda x: self._compute_client.virtual_machines.begin_delete(x.rg, self._vm_name(x)), location)
             for location in locations
         ])

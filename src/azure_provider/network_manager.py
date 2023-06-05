@@ -2,6 +2,7 @@ from azure.identity import AzureCliCredential
 from azure.mgmt.network import NetworkManagementClient
 from azure_provider.resource_cleaner import cleanup_resource_sequential
 from azure_provider.resource_cleaner import cleanup_resource
+from functools import partial
 
 
 class ResourceLocation:
@@ -60,6 +61,28 @@ class NetworkManager:
                             "destination_address_prefix": "*",
                             "destination_port_range": 22,
                             "direction": "Inbound",
+                            "access": "Allow"
+                        },
+                        {
+                            "priority": 110,
+                            "name": "AllowICMPInbound",
+                            "protocol": "ICMP",
+                            "source_address_prefix": "*",
+                            "source_port_range": "*",
+                            "destination_address_prefix": "*",
+                            "destination_port_range": "*",
+                            "direction": "Inbound",
+                            "access": "Allow"
+                        },
+                                                {
+                            "priority": 120,
+                            "name": "AllowICMPOutbound",
+                            "protocol": "ICMP",
+                            "source_address_prefix": "*",
+                            "source_port_range": "*",
+                            "destination_address_prefix": "*",
+                            "destination_port_range": 8080,
+                            "direction": "Outbound",
                             "access": "Allow"
                         },
                     ]
@@ -176,17 +199,17 @@ class NetworkManager:
 
     def cleanup(self, locations: "list[ResourceLocation]"):
         cleanup_resource([self._nic_name(location) for location in locations], [
-            (lambda: self._network_client.network_interfaces.begin_delete(location.rg, self._nic_name(location))) for location in locations
+            partial(lambda x: self._network_client.network_interfaces.begin_delete(x.rg, self._nic_name(x)), location) for location in locations
         ])
         cleanup_resource_sequential([self._ip_name(location) for location in locations], [
-            (lambda: self._network_client.public_ip_addresses.begin_delete(location.rg, self._ip_name(location))) for location in locations
+            partial(lambda x: self._network_client.public_ip_addresses.begin_delete(x.rg, self._ip_name(x)), location) for location in locations
         ])
         cleanup_resource([self._subnet_name(location) for location in locations], [
-            (lambda: self._network_client.subnets.begin_delete(location.rg, self._vnet_name(location), self._subnet_name(location))) for location in locations
+            partial(lambda x: self._network_client.subnets.begin_delete(location.rg, self._vnet_name(x), self._subnet_name(x)), location) for location in locations
         ])
         cleanup_resource([self._vnet_name(location) for location in locations], [
-            (lambda: self._network_client.virtual_networks.begin_delete(location.rg, self._vnet_name(location))) for location in locations
+            partial(lambda x: self._network_client.virtual_networks.begin_delete(x.rg, self._vnet_name(x)), location) for location in locations
         ])
         cleanup_resource([self._nsg_name(location) for location in locations], [
-            (lambda: self._network_client.network_security_groups.begin_delete(location.rg, self._nsg_name(location))) for location in locations
+            partial(lambda x: self._network_client.network_security_groups.begin_delete(x.rg, self._nsg_name(x)), location) for location in locations
         ])
