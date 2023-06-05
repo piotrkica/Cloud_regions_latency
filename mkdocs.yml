@@ -17,3 +17,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Introduction: 'index.md'
+  - Ping Latency: 'ping_latency.md'
+  - CDN vs Storage: 'cdn_vs_storage.md'
+  - Azure Regions: 'azure_regions.md'
