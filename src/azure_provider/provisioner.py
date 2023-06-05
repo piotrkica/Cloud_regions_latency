@@ -24,7 +24,7 @@ class AzureProvisioner:
     def init_region_resources(self):
         rgs = self.rg_manager.create_rgs(self.regions)
         self.resource_locations = [ResourceLocation(region, rg)
-                              for (region, rg) in zip(self.regions, rgs)]
+                                   for (region, rg) in zip(self.regions, rgs)]
         # network_manager.cleanup(nic_locations)
         self.nics = self.network_manager.create_nics(self.resource_locations)
 
@@ -62,6 +62,5 @@ class AzureProvisioner:
     def emergency_cleanup(self):
         rgs = self.rg_manager.create_rgs(self.regions)
         self.resource_locations = [ResourceLocation(region, rg)
-                              for (region, rg) in zip(self.regions, rgs)]
+                                   for (region, rg) in zip(self.regions, rgs)]
         self.cleanup()
-        

@@ -45,6 +45,7 @@ def ping(vms: list[VmDetails], ping_count=5) -> PingStatisticsGrid:
 
     return result
 
+
 def download(vms: list[VmDetails]):
     result = {vm.id: [] for vm in vms}
     # url = "https://tipystoragecheckcdn.blob.core.windows.net/tipycontainer/dummy_text.txt" # Storage
