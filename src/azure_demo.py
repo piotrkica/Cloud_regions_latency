@@ -11,15 +11,12 @@ azure_provisioner = AzureProvisioner(all_regions)
 azure_provisioner.init_region_resources()
 vms = azure_provisioner.create_vms(all_regions)
 
-# returns grid with ping statistics grouped by vm ids
-pingresults = pinger.ping(vms)
+# ping_results = pinger.ping(vms)
 
-print(pingresults)
-
-with open("pingresults.json", "w+") as f:
-    json.dump(pingresults, f, indent=4)
+cdn_results = pinger.download(vms)
+with open("data/cdn_results.json", "w+") as f:
+    json.dump(cdn_results, f, indent=4)
 
 input("Press enter to cleanup")
-# clean only some vms, might be useful if we hit some resource limit
 azure_provisioner.cleanup_vms(all_regions)
 azure_provisioner.cleanup()
