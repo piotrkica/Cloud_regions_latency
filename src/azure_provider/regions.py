@@ -3,11 +3,11 @@ all_regions = [
     "eastus2",
     "westcentralus",
     "westus",
-    "westus2",
+    ## "westus2",  # SKU not available
     "westus3",
     "canadacentral",
     "canadaeast",
-    "centralus",
+    ## "centralus",  # SKU not available
     "northcentralus",
     "southcentralus",
     "eastasia",
@@ -16,14 +16,14 @@ all_regions = [
     "australiasoutheast",
     "brazilsouth",
     "switzerlandnorth",
-    "germanywestcentral",
+    ## "germanywestcentral",  # not available for subscription
     "francecentral",
     "uksouth",
     "ukwest",
     "centralindia",
     "southindia",
     "japaneast",
-    "japanwest",
+    ## "japanwest",  # SKU not available
     "koreacentral",
     "northeurope",
     "norwayeast",
@@ -32,8 +32,8 @@ all_regions = [
     "westeurope",
     "southafricanorth",
     "australiacentral",
-    "westindia",
-    "koreasouth",
-    "qatarcentral",
+    ## "westindia",  # SKU not available
+    ## "koreasouth",  # SKU not available
+    ## "qatarcentral",  # not available for subscription
     "polandcentral"
 ]
