@@ -25,7 +25,7 @@ class PingStatistics:
         return {"p95": float(mini), "p99": float(avg)}
 
 
-def ping(vms: "list[VmDetails]", ping_count=100) -> PingStatisticsGrid:
+def ping(vms: "list[VmDetails]", ping_count=1000) -> PingStatisticsGrid:
     result = {vm.id: {} for vm in vms}
     ips = list(map(lambda x: x.ip, vms))
     client = ParallelSSHClient(ips, user=vms[0].login, password=vms[0].password)
@@ -38,8 +38,11 @@ def ping(vms: "list[VmDetails]", ping_count=100) -> PingStatisticsGrid:
 
 def install_datamash(client):
     try:
-        client.run_command("apt update -y && apt install -y datamash", sudo=True)
-    except:
+        for x in client.run_command("apt update -y && apt install -y datamash", sudo=True):
+            stderr = list(x.stderr)
+            if len(stderr) > 0: print(stderr)
+    except Exception as e:
+        print(e)
         install_datamash(client)
 
 def fill_result(client, vms, ping_count, dst_vm, result):
@@ -53,6 +56,6 @@ def fill_result(client, vms, ping_count, dst_vm, result):
                 print(stderr)
             result[src_vm.id][dst_vm.id] = PingStatistics.from_ping_output(stdout[-1])
             print(f"Pinged: {src_vm} to {dst_vm}. Result {result[src_vm.id][dst_vm.id]}")
-    except:
-        print(f"Retrying {dst_vm.ip}")
+    except Exception as e:
+        print(f"Retrying {dst_vm.ip}. Exc: {e}")
         fill_result(client, vms, ping_count, dst_vm, result)
