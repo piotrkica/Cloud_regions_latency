@@ -32,9 +32,9 @@ class VmManager:
                     "storage_profile": {
                         "image_reference": {
                             "publisher": "Canonical",
-                            "offer": "UbuntuServer",
-                            "sku": "16.04.0-LTS",
-                            "version": "latest",
+                            "offer": "0001-com-ubuntu-server-jammy",
+                            "sku": "22_04-lts",
+                            "version": "latest"
                         }
                     },
                     "hardware_profile": {"vm_size": "Standard_B1s"},
