@@ -7,10 +7,10 @@ from pinger import pinger
 from common.vm_details import VmDetails
 
 # can be passed all regions at once, then creating vms should be faster
-azure_provisioner = AzureProvisioner(all_regions[:2])
+azure_provisioner = AzureProvisioner(all_regions)
 azure_provisioner.emergency_cleanup()
 azure_provisioner.init_region_resources()
-vms = azure_provisioner.create_vms(all_regions[:2])
+vms = azure_provisioner.create_vms(all_regions)
 
 # returns grid with ping statistics grouped by vm ids
 for vm in vms:

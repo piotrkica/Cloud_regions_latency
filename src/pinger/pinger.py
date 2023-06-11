@@ -21,7 +21,8 @@ class PingStatistics:
 
     @staticmethod
     def from_ping_output(output: str):
-        mini, avg = findall("\d*\.\d*", output)
+        print(output)
+        mini, avg = output.split('\t')
         return {"p95": float(mini), "p99": float(avg)}
 
 
