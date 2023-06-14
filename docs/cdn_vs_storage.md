@@ -1,4 +1,6 @@
 ![storage_vs_cdn](storage_vs_cdn.png)
+![storage_vs_cdn](storage.png)
+![storage_vs_cdn](cdn.png)
 
 Config:  
 - command: `TIMEFORMAT=%R;time wget -q {url} -O /dev/null`  
